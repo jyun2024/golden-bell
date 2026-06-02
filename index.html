@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Unification Golden Bell Tutor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">2026 Youth Peaceful Unification Golden Bell</p>
+      <h1>Unification Golden Bell Tutor</h1>
+      <p class="subtitle">Practice English questions, review wrong answers, and learn with an AI tutor.</p>
+    </div>
+    <button id="settingsBtn" class="ghost-btn" type="button">API Key</button>
+  </header>
+
+  <main id="app" class="app-shell" aria-live="polite"></main>
+
+  <div id="toast" class="toast hidden" role="status"></div>
+
+  <div id="aiModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="aiModalTitle">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h2 id="aiModalTitle">AI Tutor</h2>
+        <button id="closeModal" class="icon-btn" type="button" aria-label="Close modal">×</button>
+      </div>
+      <div id="aiContent" class="ai-content"></div>
+    </div>
+  </div>
+
+  <div id="settingsModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
+    <div class="modal-card small">
+      <div class="modal-head">
+        <h2 id="settingsTitle">OpenAI API Key</h2>
+        <button id="closeSettings" class="icon-btn" type="button" aria-label="Close settings">×</button>
+      </div>
+      <p class="muted">Your key is stored only in this browser with LocalStorage. For classroom production, route API calls through a secure backend proxy.</p>
+      <label class="field-label" for="apiKeyInput">API Key</label>
+      <input id="apiKeyInput" type="password" class="text-input" placeholder="sk-..." autocomplete="off" />
+      <div class="row gap">
+        <button id="saveApiKey" class="primary-btn" type="button">Save</button>
+        <button id="clearApiKey" class="danger-outline-btn" type="button">Clear</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

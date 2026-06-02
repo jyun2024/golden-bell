@@ -1,0 +1,1590 @@
+[
+  {
+    "id": 1,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "On July 18, 1894, British Foreign Secretary John Kimberley proposed a partition plan regarding the hegemony over the Korean Peninsula at the time, stating, “Let the Qing Dynasty occupy the north of Seoul, and ( ) occupy the south.” Which country correctly fills the blank?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "United Kingdom"
+      },
+      {
+        "key": "B",
+        "text": "United States"
+      },
+      {
+        "key": "C",
+        "text": "Russia"
+      },
+      {
+        "key": "D",
+        "text": "Japan"
+      }
+    ],
+    "answer": "D",
+    "explanation": "On July 18, 1894, British Foreign Secretary Kimberley proposed a North-South partition plan to Aoki Shuzo, the Japanese Minister to Britain, and Gong Zhaoyuan, the Qing Minister. He suggested a partition plan stating, “Japan occupies the four southern provinces, Qing takes charge of the three northern provinces, and Gyeonggi-do is left unoccupied by either.” However, this was not realized due to opposition from Japan, which sought control over the entire Korean Peninsula. On July 25, 1894, the Sino-Japanese War broke out with a surprise attack by the Japanese fleet on the Qing fleet off the coast of Asan, and Japan ultimately emerged victorious."
+  },
+  {
+    "id": 2,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "British geographer Halford Mackinder, known as the founder of geopolitics, interpreted the Russo-Japanese War of 1904 as a confrontation between ( ) powers and maritime powers. What is the correct word for the blank?",
+    "answer": "Continental",
+    "explanation": "Geopolitics is a field of study that researches the influence of geographical factors such as a nation’s location, territory, resources, and climate on international politics, economy, and security. It analyzes power relations between nations macroscopically, seeking the causes of expansionist policies of great powers or conflicts in the geographical environment. Mackinder, a British politician and geographer called the founder of geopolitics, judged the center of the world (Pivot Area, Heartland) to be the Eurasia region. To check the continental powers located at that center, he advocated for the containment of Russia by maritime powers and the seizure of surrounding areas (Rimland, Inner Crescent). Accordingly, he judged Korea and India in the Indo-Pacific region as bridgehead areas for the continent and the ocean, emphasizing that bridgeheads should be utilized as buffer zones or strategic points to prevent the expansion of continental powers. The Geographical Pivot of History (1904) Source: Re-quoted from The Great Transformation Pivot Area Inner or Marginal Crescent surrounding the Pivot Area Outer or Insular Crescent consisting of deserts and islands Glacier"
+  },
+  {
+    "id": 3,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which of the following is the correct title of the book written by Ahn Jung-geun as described in the text? This book is an unfinished work written by Ahn Jung-geun in Lushun Prison after he was sentenced to death following his heroic deed in Harbin. Beyond the level of resisting Japan’s colonization of the Korean Empire, it contains a pioneering peace vision that the three nations of Korea, China, and Japan should establish a peaceful order in the East by solidifying solidarity based on respect for sovereignty. In particular, as specific measures for establishing peace, it suggested concepts of an economic community ahead of its time, such as the establishment of a joint bank or the issuance of a common currency. This clearly shows the independent desire to achieve peace and prosperity by determining our own destiny without being dragged by foreign powers.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Baekbeom Ilji (Diary of Baekbeom)"
+      },
+      {
+        "key": "B",
+        "text": "Samgyunjuui (Three Equalities Principle)"
+      },
+      {
+        "key": "C",
+        "text": "Dongyang Pyeonghwaron (The Theory of Oriental Peace)"
+      },
+      {
+        "key": "D",
+        "text": "Joseon Hyeokmyeong Seon-eon (Declaration of the Joseon Revolution)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Donyang Pyeonghwaron, written by Ahn Jung-geun in Lushun Prison, is a historical record that best demonstrates the ‘meaning of independence and peace’ desperately desired by independence movement forces during the Japanese colonial period. Through this book, Ahn Jung-geun clarified that the Harbin deed was not simple resentment or revenge, but a process of solidarity to protect the co-prosperity and true peace of the three Eastern nations. Baekbeom Ilji is the autobiography of Kim Gu, who led the Provisional Government of the Republic of Korea. Samgyunjuui is a thought advocated by Cho So-ang and served as the founding ideology of the Provisional Government of the Republic of Korea, seeking complete independence and peace through equality among individuals, ethnic groups, and nations. Joseon Hyeokmyeong Seon-eon is a manifesto written by Shin Chae-ho to clarify the justification for the armed struggle and direct revolution by the masses of the Uiyeoldan."
+  },
+  {
+    "id": 4,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Which organization was organized in Manchuria in 1919, took the ‘Declaration of the Joseon Revolution’ written by Shin Chae-ho as its activity guideline, and developed independent anti-Japanese struggles such as destroying major Japanese governing institutions and punishing henchmen of colonial rule? We declare that we abandon the delusions of diplomacy and preparation theories and adopt the means of direct revolution by the masses. ... We shall go among the masses and hold hands with them to overthrow the rule of the robber Japan through constant violence, assassination, destruction, and riot, and reform all irrational systems of our lives to build an ideal Joseon where humanity cannot oppress humanity and society cannot deprive society. 「Declaration of the Joseon Revolution」(Shin Chae-ho, 1923)",
+    "answer": "Uiyeoldan (Heroic Corps)",
+    "explanation": "The Uiyeoldan is a representative anti-Japanese secret society formed under the leadership of Kim Won-bong in Manchuria immediately after the March 1st Movement in 1919. They actively engaged in heroic activities, striking oppressive Japanese governing institutions such as the Government-General of Korea or police stations, and punishing individuals who took the lead in colonial rule."
+  },
+  {
+    "id": 5,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which national movement organization corresponds to (A)? (A) Platform • We promote political and economic awakening. • We solidify our unity. • We deny all forms of opportunism. -『Dong-A Ilbo』 January 20, 1927-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sinminhoe"
+      },
+      {
+        "key": "B",
+        "text": "Singanhoe"
+      },
+      {
+        "key": "C",
+        "text": "Joseon-eo Hakhoe (Korean Language Society)"
+      },
+      {
+        "key": "D",
+        "text": "Joseon Hyeongpyeongsa"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Prompted by the First United Front between the Kuomintang and the Communist Party in China (1924), a movement for a single national party was developed within China, and the Comintern also supported a national united front. In this international climate, the Singanhoe, a national cooperative front, was founded in Korea through the solidarity of uncompromising nationalist forces and socialist forces, carrying out activities from 1927 to 1931. The Singanhoe platform emphasizes national unity and criticizes the autonomy movement that compromised with Japan. ① Sinminhoe was organized as a secret society by Ahn Chang-ho and others in 1907, aiming for the recovery of national sovereignty and the construction of a modern nation-state under a republican system. ③ Joseon-eo Hakhoe was an organization renamed from the Joseon Language Research Society in 1931; it announced the ‘Unified Draft of Korean Orthography,’ established standard language, and commenced the compilation of the Great Dictionary. It was forcibly disbanded due to the Korean Language Society Incident instigated by Japan. ④ Joseon Hyeongpyeongsa was organized in 1923 to carry out the Hyeongpyeong (Equality) Movement to eliminate social discrimination against the Baekjeong (butchers), which remained even after the abolition of the caste system."
+  },
+  {
+    "id": 6,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which of the following is NOT a correct explanation of the Provisional Government of the Republic of Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It aimed for a constitutional monarchy with the restoration of King Gojong."
+      },
+      {
+        "key": "B",
+        "text": "It published the ‘Dongnip Sinmun’ (The Independent) to deliver news of the independence movement."
+      },
+      {
+        "key": "C",
+        "text": "It issued independence bonds to secure funds for the independence movement."
+      },
+      {
+        "key": "D",
+        "text": "It sought close contact with the domestic front through a secret communication network called the Yeontongje."
+      }
+    ],
+    "answer": "A",
+    "explanation": "After the March 1st Movement, movements arose to establish a unified provisional government to consolidate the will and capacity for independence. As a result of the integration movement, Shanghai was agreed upon as the location – where Japanese influence was relatively weak due to being within the French Concession – and the Provisional Government of the Republic of Korea was established with Syngman Rhee as President and Yi Dong-hwi as Prime Minister. The Provisional Government advocated a democratic republic and promulgated a provisional constitution containing the principle of the separation of powers."
+  },
+  {
+    "id": 7,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Who is the independence activist corresponding to (A)? (A) believed that ‘cultivating strength’ by building our own power was more important than anything else for the sovereign independence of the nation during the Japanese colonial period. To this end, he organized the Sinminhoe, a secret society, to strive for the promotion of education and industry, and founded the Heungsadan in San Francisco to dedicate himself to nurturing talented individuals for independence. Furthermore, he devoted his life to reorganizing the system of the Provisional Government of the Republic of Korea established after the March 1st Movement and leading the solidarity and integration of various independence movement forces with different ideologies and lines.",
+    "answer": "Ahn Chang-ho",
+    "explanation": "Dosan Ahn Chang-ho (1878–1938) considered ‘cultivating strength’ and ‘talent education’ to develop the nation’s own capacity from a long-term perspective as most important, rather than relying solely on short-term armed conflict even under Japanese oppression. Additionally, to establish a modern state with a democratic republican system, he constantly attempted integration and solidarity to bring together independence movement forces that held different ideas."
+  },
+  {
+    "id": 8,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the organization corresponding to (A). Kim Gu organized (A) to breathe vitality into the Provisional Government of the Republic of Korea. In 1932, Lee Bong-chang threw a bomb at the Japanese Emperor’s carriage in Tokyo, Japan, but failed. In 1932, Yun Bong-gil threw a bomb at Hongkou Park in Shanghai, China, where a victory ceremony for the Shanghai Incident was being held, punishing major Japanese generals and high-ranking officials.",
+    "answer": "Hanin Aegukdan (Korea Patriotic Corps)",
+    "explanation": "In a situation where Japan’s invasion of the continent expanded after the Manchurian Incident and the Provisional Government of the Republic of Korea was weakened by internal division, the Hanin Aegukdan, a secret society, was organized to carry out heroic struggles to revitalize the government. Yun Bong-gil’s deed became an occasion for the Provisional Government to receive support from the Chinese Nationalist Government and served as the foundation for the organization of the Korean Liberation Army within China later on."
+  },
+  {
+    "id": 9,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which individual corresponds to the underlined ‘I’? Rather than building a separate government for the sake of a moment’s comfort, I would rather fall across the 38th parallel while trying to build a unified fatherland. I want to go north of the 38th parallel during my lifetime. I want to die after seeing my compatriots there find their own homes.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Kim Gu"
+      },
+      {
+        "key": "B",
+        "text": "Kim Kyu-sik"
+      },
+      {
+        "key": "C",
+        "text": "Syngman Rhee"
+      },
+      {
+        "key": "D",
+        "text": "Lyuh Woon-hyung"
+      }
+    ],
+    "answer": "A",
+    "explanation": "This is ‘An Appeal to My Thirty Million Compatriots’ announced by Kim Gu on February 10, 1948. As the possibility of division increased – such as the decision for a separate election in South Korea only by the UN Interim Committee – Kim Gu opposed the establishment of a separate government and worked toward building a unified fatherland by holding North-South negotiations with North Korean leadership in Pyongyang."
+  },
+  {
+    "id": 10,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Who is this person who, on January 8, 1932, in the heart of Tokyo, Japan, threw a bomb at the carriage carrying Emperor Hirohito, announcing our nation’s independent will for independence to the whole world?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Yun Bong-gil"
+      },
+      {
+        "key": "B",
+        "text": "Lee Bong-chang"
+      },
+      {
+        "key": "C",
+        "text": "Yi Jun"
+      },
+      {
+        "key": "D",
+        "text": "Ahn Jung-geun"
+      }
+    ],
+    "answer": "B",
+    "explanation": "The patriotic martyr Lee Bong-chang (1900–1932), a member of the Korea Patriotic Corps, threw a bomb at the procession of Emperor Hirohito returning from a military review outside Sakuradamon in Tokyo, Japan, on January 8, 1932. This was to breathe new vitality into the independence movement of the stagnant Provisional Government of the Republic of Korea and to announce to the entire world our nation’s constant will for independence and independent desire for peace by striking the Emperor, the symbol of Japanese colonial rule."
+  },
+  {
+    "id": 11,
+    "type": "ox",
+    "category": "Perception of Division",
+    "question": "The name of the army established by the Provisional Government of the Republic of Korea, which settled in Chongqing, China, in 1940 with the support of the Chinese Nationalist Government, is the Korean Liberation Army. Write O if correct and X if incorrect.",
+    "answer": "O",
+    "explanation": "The Provisional Government of the Republic of Korea established the Korean Liberation Army as its subordinate military organization in Chongqing, China, on September 17, 1940. The commander-in-chief was Ji Cheong-cheon. When the Japanese Empire launched a surprise attack on Pearl Harbor in Hawaii, USA, and ignited the Pacific War, the Provisional Government of the Republic of Korea declared war on Japan and had the Korean Liberation Army participate as a member of the Allied Forces. They mainly conducted psychological warfare against the Japanese military and interrogated prisoners alongside the Chinese military. In 1943, at the request of the British military, they dispatched troops to the India-Burma theater. In December 1944, they prepared the Domestic Advance Operation (Eagle Project) in cooperation with the U.S. Office of Strategic Services (OSS). The plan was to infiltrate special forces in advance to carry out disruption operations when the Allied forces landed on the Korean Peninsula. The scheduled date for the operation was August 20, 1945, but it could not be executed due to the sudden defeat and surrender of Japan."
+  },
+  {
+    "id": 12,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the ‘this ideology’ underlined below. This ideology is the assertion that equal living for individuals should be realized through the equality of politics, economy, and education, and based on this, the equal living of nations and states should be achieved. It was systematized by Cho So-ang and provided the ideological foundation for the Founding Program of the Provisional Government of the Republic of Korea.",
+    "answer": "Samgyunjuui (Three Equalities Principle)",
+    "explanation": "Cho So-ang’s Samgyunjuui is a theoretical system asserting that equal living for individuals should be realized through the equality of politics, economy, and education, and based on this, the equal living of nations and states should be achieved. The Provisional Government of the Republic of Korea announced the Founding Program of the Republic of Korea based on Cho So-ang’s Samgyunjuui, and through this program, it included contents such as universal suffrage, the implementation of free compulsory education, and the nationalization of land and production facilities."
+  },
+  {
+    "id": 13,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Immediately after liberation, as news of “trusteeship” became known, our people were concerned that another colonial system would begin by the great powers surrounding the Korean Peninsula. At that time, people sang this song. Which country goes into the [ ]? Do not trust the United States, Do not be deceived by [ ], Japan will rise up, Joseon (Korea), Let us be careful.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "United Kingdom"
+      },
+      {
+        "key": "B",
+        "text": "Soviet Union"
+      },
+      {
+        "key": "C",
+        "text": "India"
+      },
+      {
+        "key": "D",
+        "text": "China"
+      }
+    ],
+    "answer": "B",
+    "explanation": "This is a song reflecting the sense of crisis that the Korean Peninsula could become a victim of power struggles among the great powers immediately after liberation, reflecting the perception of the international situation at the time that we (Joseon) must be very careful."
+  },
+  {
+    "id": 14,
+    "type": "ox",
+    "category": "Perception of Division",
+    "question": "The international organization launched in October 1945 to maintain international peace in accordance with the Atlantic Charter announced by the Allies during the war is the League of Nations. Write O if correct and X if incorrect.",
+    "answer": "X",
+    "explanation": "In October 1945, the United Nations (UN) was launched in accordance with the Atlantic Charter signed by Roosevelt of the U.S. and Churchill of the U.K. in August 1941, just before the outbreak of the Pacific War. Unlike the previous League of Nations, it was enabled to impose military sanctions on acts of aggression and is striving for international peace. The League of Nations was launched in 1920 after World War I, but it failed to respond effectively to international disputes after the 1930s and was disbanded after transferring its duties to the United Nations following World War II."
+  },
+  {
+    "id": 15,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "After World War II, as the United States and the Soviet Union clashed over leadership of the international order, the post-war world was reorganized into a capitalist camp centered on the U.S. and a communist camp centered on the Soviet Union. Although the two camps did not use direct military force, they came to clash over systems and ideologies throughout the world. Write what this post-war international order is called.",
+    "answer": "Cold War (system)",
+    "explanation": "After World War II, as the United States and the Soviet Union emerged as the two superpowers, conflicts arose over leadership in the international community, and this is called the Cold War. During the Cold War system, there was no direct total war between the U.S. and the Soviet Union, but fierce confrontations between the two camps occurred across various fields."
+  },
+  {
+    "id": 16,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the country that proposed the partitioned occupation of the Korean Peninsula, bounded by the 38th parallel north, for convenience under the pretext of disarming the Japanese military just before August 15, 1945.",
+    "answer": "United States",
+    "explanation": "Until just before August 15, 1945, principles or policies related to the post-war treatment of the Korean Peninsula had not been established. In early August 1945, when the United States dropped atomic bombs on Hiroshima and Nagasaki, Japan, the Soviet Union declared war on Japan to secure influence over East Asia and began participating in the war by entering Manchuria and the northern region of the Korean Peninsula. In this situation, on August 11, the United States proposed to the Soviet Union to partition and occupy the Korean Peninsula along the 38th parallel north to disarm the Japanese military. With the Soviet Union’s agreement, the 38th parallel north was established as the military demarcation line on the Korean Peninsula."
+  },
+  {
+    "id": 17,
+    "type": "ox",
+    "category": "Perception of Division",
+    "question": "Since the 38th parallel north was a boundary for military convenience, residents of South and North Korea were strictly prohibited from crossing the 38th parallel immediately after liberation. Write O if correct and X if incorrect.",
+    "answer": "X",
+    "explanation": "Because the 38th parallel north was a temporary boundary for military convenience, residents of South and North Korea were able to freely cross the 38th parallel immediately after liberation. However, as the Cold War intensified, travel gradually became restricted."
+  },
+  {
+    "id": 18,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the names of the countries corresponding to (A) and (B). Immediately after liberation, the area south of the 38th parallel north was under direct rule by (A) , which established a military government, while the area north of the 38th parallel north was under the political influence of (B) through an indirect rule method via People’s Committees.",
+    "answer": "(A) United States, (B) Soviet Union",
+    "explanation": "After liberation, the United States established a military government and exercised direct rule south of the 38th parallel north; for the convenience of administration, the U.S. military government inherited the organizations and personnel of the Government-General of Korea. North of the 38th parallel north, the Soviet Union exercised political influence through an indirect rule method via People’s Committees, and communists seized power without much difficulty with the support of the Soviet military."
+  },
+  {
+    "id": 19,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of ‘this organization’ underlined below. On the day of liberation, Lyuh Woon-hyung met with Administrative Superintendent Endo to discuss the transfer of administrative power. Subsequently, he organized this organization in the form of a coalition between the left and right wings along with Ahn Jae-hong and others. This organization made efforts for social stability immediately after liberation, while also striving to stabilize the people’s lives by focusing on securing food and daily necessities.",
+    "answer": "Committee for the Preparation of Korean Independence (CPKI)",
+    "explanation": "Immediately after liberation, Lyuh Woon-hyung organized the Committee for the Preparation of Korean Independence and worked toward social stability and the establishment of a government. The Committee for the Preparation of Korean Independence attempted to secure leadership in nation-building by proclaiming the establishment of the People’s Republic of Korea on September 6, 1945, just before the arrival of the United States. However, it was not recognized by the U.S. military government and was eventually disbanded due to the negative attitude of right-wing forces."
+  },
+  {
+    "id": 20,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the term corresponding to (A). In December 1945, the foreign ministers of the United States, the Soviet Union, and the United Kingdom met in Moscow to discuss issues regarding the Korean Peninsula. They decided to establish a provisional democratic government as a method for Korean independence, set up the U.S.-Soviet Joint Commission to facilitate the establishment of the provisional government, and draft an agreement regarding the (A) by four powers for a period of up to five years until the government is established.",
+    "answer": "Trusteeship",
+    "explanation": "The decisions in the prompt are those of the Moscow Conference of Three Foreign Ministers. The foreign ministers of the United States, the United Kingdom, and the Soviet Union gathered at this meeting to discuss issues on the Korean Peninsula. As the decisions of the Moscow Conference were transmitted domestically, the issue of trusteeship was primarily highlighted, leading to the fixed perception that ‘the decision of the Three Ministers’ Conference = Trusteeship.’"
+  },
+  {
+    "id": 21,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "This photograph is the original manuscript of a modern Korean dictionary compiled in the 1910s. It was compiled by Master Ju Si-gyeong and his students Kim Du-bong, Kwon Deok-gyu, and Lee Gyu-yeong. Compilation began in 1911 and the manuscript was nearly finished, but it could not be published due to the death or exile of the compilers. Therefore, it was called the <○○○> ‘Manuscript Version’. What is this, which preserved our spirit by protecting the Korean dictionary even under harsh torture and oppression when the use of our language was prohibited by Imperial Japan? (Hint! There was also a movie starring actors Yoo Hae-jin and Yoon Kye-sang.)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Urimal (Our Language)"
+      },
+      {
+        "key": "B",
+        "text": "Naratmal (National Language)"
+      },
+      {
+        "key": "C",
+        "text": "Malmodeum (Word Gathering)"
+      },
+      {
+        "key": "D",
+        "text": "Malmoi (Gathering words)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Malmoi is a pure Korean word meaning ‘to gather words.’ Malmoi is the manuscript of Korea’s first modern Korean dictionary. In the early 1910s, Master Ju Si-gyeong and his students began the compilation to protect the Korean language against the language eradication policy of Imperial Japan. It was not merely a book listing words, but a ‘mental independence movement’ containing our nation’s identity and will for independence. The ‘Korean Language Society Incident’ in 1942, in which they were arrested, reflects a painful history where linguists were tortured as Imperial Japan regarded dictionary compilation as an independence movement. In September 1945, immediately after liberation, a bundle of manuscripts thought to be lost was miraculously discovered in a warehouse at Seoul Station, becoming the foundation for today’s Great Dictionary of the Korean Language."
+  },
+  {
+    "id": 22,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the region where the following incident occurred. This refers to an incident in which numerous residents were sacrificed during the process of armed conflict and suppression that lasted until 1954, following the uprising of armed units of the South Korea Labor Party in April 1948 in resistance against the oppression of the police and the Northwest Youth Association, and in opposition to the separate election and the establishment of a separate government in South Korea.",
+    "answer": "Jeju Island",
+    "explanation": "The prompt is an explanation of the Jeju April 3 Incident. Innocent Jeju residents were sacrificed during the armed uprising in Jeju Island and its subsequent suppression. It began with a police firing incident on March 1, 1947, and on April 3, 1948, some residents of Jeju Island rose in an armed uprising, advocating for opposition to the separate election in South Korea and the withdrawal of U.S. troops. The military and police, together with right-wing organizations, carried out suppression operations, and 20,000 to 30,000 residents were sacrificed in this process. In 2000, the ‘Special Act on Discovering the Truth of the Jeju April 3 Incident and the Restoration of Honor of the Victims’ was enacted to reinvestigate the Jeju April 3 Incident."
+  },
+  {
+    "id": 23,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which of the following is a correct explanation of the general election of members of the National Assembly (May 10 General Election) held on May 10, 1948, to form the Constituent National Assembly of South Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It was the first universal suffrage in our country."
+      },
+      {
+        "key": "B",
+        "text": "It elected a president for a five-year term ."
+      },
+      {
+        "key": "C",
+        "text": "It led to the establishment of the Provisional Government of the Republic of Korea."
+      },
+      {
+        "key": "D",
+        "text": "It was held according to the decision of the U.S.-Soviet Joint Commission."
+      }
+    ],
+    "answer": "A",
+    "explanation": "The May 10 General Election was a democratic election in which all citizens aged 21 or older participated according to the principles of universal, equal, secret, and direct suffrage; it was an election for members of the National Assembly to form the Constituent National Assembly. The U.S.-Soviet Joint Commission fell through, and the May 10 General Election was conducted under the observation of the UN Temporary Commission on Korea according to the decision of the UN Interim Committee on February 26, 1948. In the election, members of the Constituent National Assembly were elected for a two-year term, and with the enactment of the Constituent Constitution on July 17, the establishment of the Government of the Republic of Korea was proclaimed on August 15."
+  },
+  {
+    "id": 24,
+    "type": "ox",
+    "category": "Perception of Division",
+    "question": "The Constituent National Assembly enacted the ‘Special Act on the Punishment of Anti-National Activities’ and formed the Special Investigation Committee (Anti-National Activities Special Investigation Committee) and a Special Court. Write O if correct and X if incorrect.",
+    "answer": "O",
+    "explanation": "Based on the Constituent Constitution, the Constituent National Assembly set out to liquidate pro-Japanese factions by enacting the ‘Special Act on the Punishment of Anti-National Activities’ and forming the Special Investigation Committee. However, as the statute of limitations for the Anti-National Activities Act was shortened amidst opposition from the Syngman Rhee government, the Special Investigation Committee was disbanded."
+  },
+  {
+    "id": 25,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the city where a large-scale landing operation was developed in September 1950, reversing the tide of the Korean War.",
+    "answer": "Incheon",
+    "explanation": "The South Korean military and the United Nations forces reversed the tide of the Korean War through the Incheon Landing Operation."
+  },
+  {
+    "id": 26,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which country participated in the Korean War on October 19, 1950, to support North Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Soviet Union"
+      },
+      {
+        "key": "B",
+        "text": "China"
+      },
+      {
+        "key": "C",
+        "text": "United States"
+      },
+      {
+        "key": "D",
+        "text": "Vietnam"
+      }
+    ],
+    "answer": "B",
+    "explanation": "On October 19, 1950, China sent troops to support North Korea, and the Chinese People’s Volunteer Army moved south instantaneously. South and North Korea continued intense offensive and defensive battles near the 38th parallel."
+  },
+  {
+    "id": 27,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the city corresponding to (A). During the Korean War, (A) served as the temporary capital for 1,023 days. As refugees flocked from all over the country, residential areas for refugees, such as the Gamcheon Culture Village, were formed. Refugees headed to the Gukje Market and the piers to find work.",
+    "answer": "Busan",
+    "explanation": "After the outbreak of the Korean War, Daejeon, Daegu, and Busan served as temporary capitals. Due to the January 4th Retreat – represented by the Hungnam Evacuation and the recapture of Seoul – Busan became the temporary capital once again, and while numerous refugees lived there, the Busan Gukje Market flourished."
+  },
+  {
+    "id": 28,
+    "type": "ox",
+    "category": "Perception of Division",
+    "question": "During the Korean War, North Korea and China insisted on the unconditional repatriation of prisoners of war to their home countries, while the UN forces insisted on respecting the free will of the prisoners of war. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "When the Korean War reached a stalemate, the Soviet Union proposed an armistice, and the United States accepted the proposal. The Syngman Rhee government opposed the armistice, advocating for unification, but the armistice negotiations proceeded regardless. Many prisoners of the Korean War had been conscripted into the North Korean or ROK military regardless of their will, making it difficult to establish principles for the exchange of prisoners. The North Korean and Chinese sides insisted on the unconditional repatriation of prisoners, while the UN forces insisted on respecting the free will of the prisoners, failing to narrow the difference in opinions. In this situation, conflicts intensified among the prisoners. Meanwhile, the Syngman Rhee government, in opposition to the armistice, unilaterally released anti-communist prisoners of war on June 18–19, 1953. Subsequently, after receiving promises from the United States for the conclusion of the ROK-U.S. Mutual Defense Treaty and economic aid, the government announced its position to comply with the armistice negotiations."
+  },
+  {
+    "id": 29,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Who among the following was NOT a party that signed the Armistice Agreement concluded on July 27, 1953?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Commander-in-Chief of the UN Forces"
+      },
+      {
+        "key": "B",
+        "text": "Supreme Commander of the North Korean Army"
+      },
+      {
+        "key": "C",
+        "text": "Commander of the Chinese People’s Volunteer Army"
+      },
+      {
+        "key": "D",
+        "text": "Chief of Staff of the Republic of Korea Army"
+      }
+    ],
+    "answer": "D",
+    "explanation": "The Armistice Agreement was signed by Kim Il-sung, Supreme Commander of the North Korean Army; Peng Dehuai, Commander of the Chinese People’s Volunteer Army; and Clark, Commander-in-Chief of the UN Forces. The Syngman Rhee government opposed the armistice."
+  },
+  {
+    "id": 30,
+    "type": "ox",
+    "category": "Perception of Division",
+    "question": "After the conclusion of the Armistice Agreement, South Korea and the United States signed the ROK-U.S. Mutual Defense Treaty on October 1, 1953, allowing U.S. troops to remain stationed on the Korean Peninsula. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The Geneva Conference was an international political conference held from April 26 to June 15, 1954, at the former League of Nations building in Geneva, Switzerland, where foreign ministers from 19 countries, including the UN participating nations, sought solutions for the peaceful unification of Korea and the Vietnam issue. However, as the Geneva Conference ended without results, the formal end of the war was not achieved. Consequently, military costs increased, military tensions persisted, and the Cold War structure was solidified. The United States signed the ROK-U.S. Mutual Defense Treaty with the Syngman Rhee government and exercised strong influence in East Asia through the United States Forces Korea."
+  },
+  {
+    "id": 31,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the region where the following prisoner of war camp was established. This is a place where a prisoner of war camp was established to accommodate prisoners when the Korean War broke out. By the end of June 1951, this prisoner of war camp accommodated up to 170,000 prisoners, including 150,000 North Korean Army prisoners and 20,000 Chinese Army prisoners. However, many tragic incidents occurred, such as violent clashes between anti-communist prisoners and pro-communist prisoners.",
+    "answer": "Geoje Island",
+    "explanation": "The Geoje Island Prisoner of War Camp was established to accommodate prisoners from the Korean War. Today, it has been developed into the Geoje Island POW Camp Historic Park based on records and materials such as the lifestyles of the prisoners at the time, barracks, and photographs."
+  },
+  {
+    "id": 32,
+    "type": "short-answer",
+    "category": "Perception of Division",
+    "question": "Write the name of the country corresponding to (A). The Korean War brought about a reorganization of the international order in East Asia. China’s status within the communist bloc rose as it participated in the Korean War and confronted the United States, and its influence over North Korea expanded. (A) escaped from economic stagnation after the war thanks to the special demand generated by the Korean War and established itself as an anti-communist stronghold nation in Asia.",
+    "answer": "Japan",
+    "explanation": "Japan suffered from economic difficulties after its defeat in World War II, but when the Korean War broke out, it received orders from the United States for the production and transport of large quantities of supplies. This led to the recovery and significant revitalization of its economy."
+  },
+  {
+    "id": 33,
+    "type": "multiple-choice",
+    "category": "Perception of Division",
+    "question": "Which of the following is a correct result of the underlined ‘war’? Mother! I have killed a person. …… The enemy’s legs were torn off and their arms were torn off. It was such a cruel death. Even though they are the enemy, when I think that they are also human, and moreover, when I think that they are compatriots sharing the same language and the same blood, my heart feels heavy and stifled. …… I want the war to end quickly so I can be held in my mother’s arms. <Letter of a Student Soldier (The late student soldier Lee Woo-geun>",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Atomic bombs were dropped."
+      },
+      {
+        "key": "B",
+        "text": "The Korean Liberation Army was formed."
+      },
+      {
+        "key": "C",
+        "text": "Many separated families were created."
+      },
+      {
+        "key": "D",
+        "text": "The 38th parallel was established as the boundary line."
+      }
+    ],
+    "answer": "C",
+    "explanation": "From the phrases ‘Even though they are the enemy ... compatriots sharing the same language and the same blood’ in the provided text, it can be inferred that the underlined ‘war’ is the Korean War. The Korean War resulted in many separated families."
+  },
+  {
+    "id": 34,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which country did NOT participate in the partition of Germany after World War II?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "United States"
+      },
+      {
+        "key": "B",
+        "text": "United Kingdom"
+      },
+      {
+        "key": "C",
+        "text": "France"
+      },
+      {
+        "key": "D",
+        "text": "China"
+      }
+    ],
+    "answer": "D",
+    "explanation": "After the defeat in World War II, Germany was divided into four occupation zones in 1945 by the Allied powers—the United States, the United Kingdom, France, and the Soviet Union—according to the results of the Potsdam Conference. The capital, Berlin, was also divided and occupied by the four countries. Later, as the Cold War intensified, governments were established in 1949 in the Western occupation zones as the Federal Republic of Germany (West Germany) and in the Soviet occupation zone as the German Democratic Republic (East Germany), respectively, leading to official division."
+  },
+  {
+    "id": 35,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Among the lessons from the unification of divided nations, which of the following is the most appropriate lesson emphasized by the content below? Germany emphasized that a unified Germany would promote peace and prosperity for all of Europe rather than being a security threat to neighboring countries. By cooperating closely with the United States, which was active toward German unification, and obtaining concessions from the Soviet Union, the United Kingdom, and France, which were lukewarm toward unification, it was able to achieve unification.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Unification must be achieved through peaceful methods."
+      },
+      {
+        "key": "B",
+        "text": "It must be promoted transparently based on national consensus."
+      },
+      {
+        "key": "C",
+        "text": "Correct unification awareness of the citizens and practical preparation for unification must be made."
+      },
+      {
+        "key": "D",
+        "text": "Cooperation with neighboring countries must be strengthened to create a favorable environment for unification."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Vietnam was unified by force in 1976 but suffered enormous loss of life and economic damage, which suggests the importance of peaceful methods. Yemen unified through a sudden agreement between leaders, but due to a lack of national consensus and transparent preparation processes, it suffered the pain of being engulfed in civil war again. Germany left the tasks of enormous unification costs and psychological heterogeneity among residents by choosing a rapid absorption unification method where East Germany joined West Germany, demonstrating the necessity of thorough prior preparation. However, Germany achieved unification by creating a favorable international environment for unification through the ‘2+4 Talks’ by drawing support from neighboring countries – the US, USSR, UK, and France."
+  },
+  {
+    "id": 36,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "After German unification, the psychological and cultural conflict that occurred as people from the former East Germany were called ‘Ossi’ and those from West Germany were called ‘Wessi’ is called the ‘Wall in the Head.’ Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Although legal and political unification was achieved in 1990, the psychological heterogeneity among residents who had lived under different systems for a long time did not easily disappear. The expressions ‘Ossi’ (lazy person from the East), used to disparage East Germans, and ‘Wessi’ (arrogant person from the West), used to disparage West Germans, symbolically show this conflict. Germany calls this the ‘Wall in the Head’ and left the lesson that for true integration, the integration of minds is just as important as physical union."
+  },
+  {
+    "id": 37,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which of the following is the most appropriate explanation for the unification process and results of Vietnam?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The South and the North achieved an agreed-upon unification through voting via peaceful dialogue."
+      },
+      {
+        "key": "B",
+        "text": "After a long war, North Vietnam occupied South Vietnam by force, resulting in unification."
+      },
+      {
+        "key": "C",
+        "text": "Unification was achieved according to democratic procedures without war, led by neighboring superpowers."
+      },
+      {
+        "key": "D",
+        "text": "As economic cooperation became active, they naturally merged into one country."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Vietnam was divided into North and South like us, but the method of unification was very tragic. In 1975, as the North Vietnamese army captured Saigon, the capital of South Vietnam, unification by force through war was completed. In this process, countless lives were sacrificed and the land was devastated. Therefore, a lot of time was consumed before Vietnam’s current economic growth was achieved. This serves as an important object lesson (반면교사) reminding us that the unification of the Korean Peninsula must be achieved through peaceful methods, not through war."
+  },
+  {
+    "id": 38,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "In 1972, the South and the North agreed on the principles of unification—’Independence, Peace, and Great National Unity’ – through the 「July 4 South-North Joint Statement」. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The core of the 1972 「July 4 South-North Joint Statement」 is the principles of ‘Independence, Peace, and Great National Unity.’ That is, they must promote great national unity independently without reliance on or interference from foreign powers, through peaceful methods without resorting to the use of force, and transcending differences in ideas, ideologies, and systems."
+  },
+  {
+    "id": 39,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "The 「July 4 South-North Joint Statement」, an agreement document between the South and the North announced in 1972, is the first agreement between the South and North authorities since the division of the South and the North. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "「The 「July 4 South-North Joint Statement」 is the first joint statement agreed upon and announced by the South and North Korean authorities regarding unification since the division on July 4, 1972, proclaiming the three major principles of independence, peace, and great national unity."
+  },
+  {
+    "id": 40,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "According to the Inter-Korean Basic Agreement, the relationship between South and North Korea is a provisional special relationship, not a relationship between states. Therefore, when going to Mt. Kumgang or Kaesong, the terms ‘Chul-gyeong’ instead of ‘Chul-guk’ (departure from country) and ‘Ip-gyeong’ instead of ‘Ip-guk’ (entry into country) are used. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "According to the Inter-Korean Basic Agreement agreed upon in 1991, South and North Korea are in a provisional special relationship, not a relationship between states. Therefore, unlike going to a foreign country, when going to Mt. Kumgang or Kaesong, the terms ‘Chul-gyeong’ (crossing the border) instead of ‘Chul-guk’ and ‘Ip-gyeong’ instead of ‘Ip-guk’ are used. Similarly, the movement of goods between the South and the North is not called ‘import/export’ but ‘bringing in/taking out.’"
+  },
+  {
+    "id": 41,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "The 「Inter-Korean Basic Agreement」 signed in 1991 includes contents such as the South and the North recognizing and respecting each other’s systems, not interfering in each other’s internal affairs, and not engaging in slander or defamation against each other. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "In the 「Inter-Korean Basic Agreement」 (Official name: Agreement on Reconciliation, Non-aggression, and Exchange and Cooperation between the South and the North), the South and the North promised to resolve issues of differing opinions and disputes peacefully through dialogue and negotiation without invading the other party by force, along with efforts for South-North reconciliation."
+  },
+  {
+    "id": 42,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which of the following does not correspond to the contents of the 1991 「Inter-Korean Basic Agreement」?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "South-North Reconciliation"
+      },
+      {
+        "key": "B",
+        "text": "South-North Non-aggression"
+      },
+      {
+        "key": "C",
+        "text": "South-North Exchange and Cooperation"
+      },
+      {
+        "key": "D",
+        "text": "General Elections between South and North Korea"
+      }
+    ],
+    "answer": "D",
+    "explanation": "The main contents of the 1991 「Inter-Korean Basic Agreement」 are as follows: • Recognize and respect the other party’s system. • Do not invade the other party by force. • Conduct economic exchange and cooperation, such as joint development of resources, exchange of goods as internal exchange within the nation, and joint ventures."
+  },
+  {
+    "id": 43,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Mt. Kumgang tourism began following the 「June 15 South-North Joint Declaration」 announced at the 2000 Inter-Korean Summit. Write O if correct, and X if incorrect.",
+    "answer": "X",
+    "explanation": "Mt. Kumgang tourism was pursued in earnest after the late Chairman Chung Ju-yung visited North Korea in 1989 and signed the memorandum of understanding for the South-North joint development of Mt. Kumgang, and after Hyundai and North Korea signed the Mt. Kumgang tourism business contract in June 1998. The ‘Kumgang-ho’ made its first voyage on November 18, 1998. However, it was suspended following an incident in July 2008 where a South Korean tourist was shot and killed."
+  },
+  {
+    "id": 44,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "The 「June 15 South-North Joint Declaration」, agreed upon by South Korean President Kim Dae-jung and North Korean Chairman of the National Defense Commission Kim Jong-il on June 15, 2000, contains the immediate establishment of ‘one country, one system’ as the top priority promise for the unification formula. Write O if correct, and X if incorrect.",
+    "answer": "X",
+    "explanation": "The 「June 15 South-North Joint Declaration」 agreed to resolve the unification issue independently and to recognize the commonality between the South’s proposal for a confederation and the North’s proposal for a low-level federation. This declaration has five key articles, including the prompt resolution of humanitarian issues such as the dispersed families issue and the activation of inter-Korean exchanges including economic cooperation. The Lee Jae-myung administration consistently pursues unification-oriented peaceful coexistence by inheriting the spirit of such joint declarations from previous administrations. ‘One country, one system’ corresponds to the stage of complete unification, which is the final stage of the National Community Unification Formula, and is different from the major agreed matters of the declaration at that time."
+  },
+  {
+    "id": 45,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "In the development of South-North relations, the June 15, 2000 Inter-Korean Summit and the 「June 15 South-North Joint Declaration」 agreed upon at the summit brought an important turning point. Which of the following is a correct change that appeared after the 「June 15 South-North Joint Declaration」?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "South-North economic talks were held."
+      },
+      {
+        "key": "B",
+        "text": "The Inter-Korean Cooperation Fund was established."
+      },
+      {
+        "key": "C",
+        "text": "A reunion center for separated families was established."
+      },
+      {
+        "key": "D",
+        "text": "The South-North Coordinating Committee was established."
+      }
+    ],
+    "answer": "C",
+    "explanation": "After the Inter-Korean Summit on June 15, 2000, various forms of inter-Korean talks and personnel and material exchange and cooperation between the South and the North expanded. In particular, after the 「June 15 South-North Joint Declaration」, reunions of separated families became active, and a reunion center for separated families was established at Mt. Kumgang. These are events from the periods of: ① Chun Doo-hwan administration (1984–1985), ② Roh Tae-woo administration (1990–1991), and ④ Park Chung-hee administration (1972)."
+  },
+  {
+    "id": 46,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which of the following is the most appropriate occasion for the preparation of the following agreement? < Agreement of the 1st Meeting of the Working-level Consultative Committee on the Connection of South-North Railways and Roads > The South and the North held the 1st meeting of the working-level consultative committee on the connection of railways and roads at Mt. Kumgang from September 13 to 17, 2002, and reached the following agreement on working-level issues for the connection of the Gyeongui and Donghae railway lines and roads. The groundbreaking ceremony for the connection of the Gyeongui and Donghae railway lines and roads shall be held on September 18, and the time, place, and format of the groundbreaking ceremony shall be exchanged one day before the ceremony via a document exchange method. (The rest is omitted)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Adoption of the 「Inter-Korean Basic Agreement」"
+      },
+      {
+        "key": "B",
+        "text": "Announcement of the 「July 4 South-North Joint Statement」"
+      },
+      {
+        "key": "C",
+        "text": "Announcement of the 「June 15 South-North Joint Declaration」"
+      },
+      {
+        "key": "D",
+        "text": "Announcement of the ‘National Community Unification Formula’"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Following the announcement of the 「June 15 South-North Joint Declaration」 following the 2000 Inter-Korean Summit, inter-Korean economic cooperation such as the construction of the Kaesong Industrial Complex and the Gyeongui Line restoration project was pursued."
+  },
+  {
+    "id": 47,
+    "type": "short-answer",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "In the 「June 15 Joint Declaration」 of 2000, agreed upon by the leaders of the South and the North for the first time, an article was adopted stating, ‘The South and the North recognized that there is a commonality between the South’s ( A ) proposal and the North’s low-level ( B ) proposal for the unification of the country, and agreed to aim for unification in this direction in the future.’ Write the terms to go into ( A ) and ( B ) in order.",
+    "answer": "Confederation, Federation",
+    "explanation": "A confederation refers to a union of states where multiple states maintain individual sovereignty while forming a confederated body that holds specific powers to consult on matters in specific areas and perform common functions. In contrast, a federation, in a general sense, refers to a union of states where the constituent governments lose their status as states under international law, and only the federal state possesses the status of a state."
+  },
+  {
+    "id": 48,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "In the 「Declaration on the Advancement of South-North Relations, Peace and Prosperity」 agreed upon at the October 2007 Inter-Korean Summit, the South and the North agreed to cooperate closely to end military hostilities and guarantee the easing of tension and peace on the Korean Peninsula. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "As a result of the Inter-Korean Summit on October 4, 2007, the leaders of the South and the North agreed on the 「Declaration on the Advancement of South-North Relations, Peace and Prosperity.」 Article 3 of the declaration states, “The South and the North agreed to cooperate closely to end military hostilities and guarantee the easing of tension and peace on the Korean Peninsula.”"
+  },
+  {
+    "id": 49,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which of the following is correct regarding the contents of the 「Declaration on the Advancement of South-North Relations, Peace and Prosperity (October 4 Declaration)」 announced after the 2007 Inter-Korean Summit?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The South and the North agreed to lift the May 24 measures."
+      },
+      {
+        "key": "B",
+        "text": "The South and the North agreed to establish the South-North Coordinating Committee."
+      },
+      {
+        "key": "C",
+        "text": "The South and the North agreed to commence construction for the restoration of the Gyeongui Line."
+      },
+      {
+        "key": "D",
+        "text": "The South and the North agreed to actively promote the establishment of a joint fishing zone in the West Sea."
+      }
+    ],
+    "answer": "D",
+    "explanation": "In October 2007, President Roh Moo-hyun visited Pyongyang, held a summit meeting with Chairman of the National Defense Commission Kim Jong-il, and announced the 「October 4 Declaration」 (Official name: Declaration on the Advancement of South-North Relations, Peace and Prosperity). This declaration is evaluated as an agreement that inherited the spirit of the 2000 「June 15 South-North Joint Declaration」 and further specified it. The main agreed contents are as follows: First, the South and the North agreed to cooperate closely to end military hostilities and guarantee the easing of tension and peace on the Korean Peninsula. Second, they agreed to actively promote the establishment of a joint fishing zone to prevent accidental military clashes in the West Sea. Third, they agreed to actively activate economic cooperation projects based on the principles of ‘common interests and common prosperity’ and ‘Yu-mu-sang-tong’ (exchanging what one has for what the other lacks) for the balanced development and common prosperity of the national economy."
+  },
+  {
+    "id": 50,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "The term ‘Yu-mu-sang-tong’ refers to the principle of economic exchange between the South and the North, meaning that the South and North sides exchange what they have and do not have with each other. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "In Article 5 of the October 4 Declaration made at the 2007 Inter-Korean Summit, it states, “The South and the North agreed to actively activate and continuously expand and develop economic cooperation projects based on the principles of common interests and common prosperity and Yu-mu-sang-tong for the balanced development and common prosperity of the national economy.”"
+  },
+  {
+    "id": 51,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "The following is an explanation of the 「April 27 Panmunjom Declaration」, one of our government’s efforts to establish peace on the Korean Peninsula. Write O if correct, and X if incorrect. According to the 「Panmunjom Declaration」 on April 27, 2018, the South and the North agreed to completely stop all hostile acts against the other party, immediately stop hostile acts such as loudspeaker broadcasts and the distribution of leaflets in the area of the Military Demarcation Line, and also agreed to prevent accidental military clashes by creating a peace zone in the area of the Northern Limit Line in the West Sea.",
+    "answer": "O",
+    "explanation": "In the 「Panmunjom Declaration for Peace, Prosperity and Unification of the Korean Peninsula」 on April 27, 2018, the South and the North agreed to work together to ease the acute military tension and practically eliminate the danger of war on the Korean Peninsula. Specifically, the South and the North agreed to stop all hostile acts, including loudspeaker broadcasts and the distribution of leaflets in the area of the Military Demarcation Line, eliminate the means for such acts, and make the Demilitarized Zone a practical peace zone in the future. They also agreed to establish practical measures to prevent accidental military clashes and guarantee safe fishing activities by making the area of the Northern Limit Line in the West Sea a peace zone."
+  },
+  {
+    "id": 52,
+    "type": "short-answer",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Write the word that goes into ( ) in the following statement. According to the ‘Agreement on the Implementation of the Historic Panmunjom Declaration in the Military Domain’ (the ‘September 19 Military Agreement’) adopted at the September 2018 Pyongyang Summit, the South and the North agreed to prevent accidental armed clashes in all spaces, including ground, sea, and air. To this end, the South and the North agreed to completely stop hostile acts in the vicinity of the border area and reached an agreement to establish a ( ) in this space.",
+    "answer": "Buffer zone",
+    "explanation": "The ‘Agreement on the Implementation of the Historic Panmunjom Declaration in the Military Domain,’ namely the ‘September 19 Military Agreement,’ signed by the South and the North during the September 2018 Pyongyang Summit, contains specific practical measures to ease acute military tensions and substantially eliminate the danger of war on the Korean Peninsula. One of the core contents of this agreement was the establishment of buffer zones in all spaces—ground, sea, and air—to prevent accidental clashes in the vicinity of the Military Demarcation Line from escalating into full-scale armed conflict. This included measures such as stopping artillery firing drills and field maneuver exercises within a certain distance from the Military Demarcation Line on the ground, designating the vicinity of the Northern Limit Line in the West Sea and East Sea as peace zones to prohibit naval gun firing at sea, and establishing no-fly zones by aircraft type in the air."
+  },
+  {
+    "id": 53,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "This is the ‘National Community Unification Formula,’ which is the official unification formula of the Republic of Korea. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The ‘Korean National Community Unification Formula’ presented by the Roh Tae-woo administration in 1989 was recognized through consensus between the ruling and opposition parties. Inheriting this, it was developed into the ‘National Community Unification Formula’ announced by President Kim Young-sam in his August 15 Liberation Day Address in 1994, establishing itself as the government’s official unification formula. The ‘National Community Unification Formula’ pursues a gradual and step-by-step unification where South and North Korea establish a unified state of one nation, one state, one system, and one government through the stage of reconciliation and cooperation followed by the stage of inter-Korean union."
+  },
+  {
+    "id": 54,
+    "type": "short-answer",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Arrange the three stages of unification presented in the ‘National Community Unification Formula’ in the correct order. A. Inter-Korean Union Stage B. Reconciliation and Cooperation Stage C. Unified State Stage of One Nation, One State, One System, One Government",
+    "answer": "B-A-C",
+    "explanation": "The ‘National Community Unification Formula’ presents the process of unification in three stages based on the stance that unification should proceed gradually and step-by-step in the direction of building a single national community. In other words, the unified state of one nation, one state, one system, and one government must be completed through the reconciliation and cooperation stage and the inter-Korean union stage."
+  },
+  {
+    "id": 55,
+    "type": "short-answer",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "The following is an explanation of the ‘National Community Unification Formula,’ our government’s official unification formula. Specifically, write which stage of the unification process it is describing. his is the stage where exchange and cooperation between the South and the North become active and institutionalized. While the South and the North build mutual trust and promote the settlement of peace and the homogeneity of the nation, legal and institutional devices are systematized according to agreements between South and North Korea. Various plans for national integration are discussed in organizations jointly composed by South and North Korea – such as the Inter-Korean Summit, Inter-Korean Ministerial Meeting, Inter-Korean Council, and Joint Secretariat.",
+    "answer": "Inter-Korean Union (Stage) Alternative correct answers: Inter-Korean Union / Inter-Korean Union Stage / Union Stage",
+    "explanation": "The Inter-Korean Union stage is an intermediate process toward unification. While South and North Korea exist as independent individual sovereign states in the international community, it is a stage where they manage the integration process through a unification-oriented cooperative relationship in a loose, functionally combined form regarding internal national relations."
+  },
+  {
+    "id": 56,
+    "type": "ox",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Since its inauguration in 2025, the Lee Jae-myung government has implemented measures such as stopping the distribution of leaflets and halting loudspeaker broadcasts toward North Korea to restore trust between the South and the North. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The practical position of the Lee Jae-myung government is that trust is built through specific practical actions rather than words. Immediately after taking office, the government preemptively took measures to stop the distribution of leaflets toward North Korea and halt loudspeaker broadcasts, which could heighten military tensions and cause accidental clashes between the South and the North. This was an essential first step toward recovering the collapsed trust between the South and the North and shifting the relationship to one of mutual respect. By demonstrating the matters promised by the government through action, it aims to prove the sincerity of peace settlement in order to break the vicious cycle of hostility and confrontation and open a new era of a peaceful Korean Peninsula."
+  },
+  {
+    "id": 57,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which of the following is a correct explanation of the unification policies of successive South Korean governments?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Before 1970, the ‘Peace First, Unification Later’ theory was presented."
+      },
+      {
+        "key": "B",
+        "text": "Since the 1990s, the main perspective of our government’s unification approach has been the three-stage theory for resolving the inter-Korean issue."
+      },
+      {
+        "key": "C",
+        "text": "The Formula for National Reconciliation and Democratic Unification presented ‘Independence, Peace, and Democracy’ as the principles of unification and suggested a democratic state where ‘Freedom, Human Rights, and Happiness’ are guaranteed as the future image of a unified state."
+      },
+      {
+        "key": "D",
+        "text": "The Kim Young-sam administration held the first inter-Korean summit and adopted the 「June 15 South-North Joint Declaration」, which contained five articles regarding the direction of improving inter-Korean relations and immediate practical tasks."
+      }
+    ],
+    "answer": "B",
+    "explanation": "The unification theory before 1970 was “Construction First, Unification Later,” taking the position of pursuing unification after economic development. The shift to the “Peace First, Unification Later” theory occurred after the ‘Three Basic Principles for Peaceful Unification’ on August 15, 1974. The unification formula that presented ‘Independence, Peace, and Democracy’ as the principles of unification and suggested a democratic state where ‘Freedom, Human Rights, and Happiness’ are guaranteed in 1989 was the ‘Korean National Community Unification Formula.’ The government that adopted the 「June 15 South-North Joint Declaration」 in 2000 was the Kim Dae-jung administration."
+  },
+  {
+    "id": 58,
+    "type": "multiple-choice",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Which of the following is NOT one of the three major goals of the ‘Policy for Peaceful Coexistence on the Korean Peninsula’ pursued by the Lee Jae-myung government?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Institutionalization of peaceful coexistence between the South and the North"
+      },
+      {
+        "key": "B",
+        "text": "Building a foundation for joint growth on the Korean Peninsula"
+      },
+      {
+        "key": "C",
+        "text": "Realization of a Korean Peninsula without war and nuclear weapons"
+      },
+      {
+        "key": "D",
+        "text": "Inducing regime change through North Korean human rights issues"
+      }
+    ],
+    "answer": "D",
+    "explanation": "The Lee Jae-myung government’s policy for peaceful coexistence aims for three clear goals: ① institutionalization of peaceful coexistence between the South and the North, ② building a foundation for joint growth on the Korean Peninsula, and ③ realization of a Korean Peninsula without war and nuclear weapons. Since the government starts from the principle of mutual recognition, which acknowledges and respects the other’s system, it does not set artificial regime change of North Korea or unification by absorption as a goal. Human rights issues are also pursued in a way that harmonizes with the policy for peaceful coexistence, taking a pragmatic approach that seeks practical improvement in the quality of life. Therefore, it can be seen that methods of inducing the collapse of a specific system or fostering confrontation are contrary to the goals of this policy."
+  },
+  {
+    "id": 59,
+    "type": "short-answer",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "What is the term for an economy where peace promotes economic cooperation and economic cooperation builds a virtuous cycle that solidifies peace, benefiting residents of both the South and the North?",
+    "answer": "Peace Economy",
+    "explanation": "The 「Peace Economy」 defines peace not as a simple state of absence of war, but as a core growth engine that creates sustainable prosperity. This is a strategy to create a ‘Korean Peninsula Premium’ that increases national credibility by resolving Korean Peninsula risks and to prepare new growth opportunities through a South-North economic community. It includes contents such as normalizing inter-Korean economic cooperation projects like tourism cooperation, railway and road connection, and the resumption of the Kaesong Industrial Complex, and developing a new economic model that incorporates new growth industries. The Lee Jae-myung government is fostering the border area as a base for a peace economy to promote balanced regional development and is preparing for a future where practical benefits return to residents of both the South and the North."
+  },
+  {
+    "id": 60,
+    "type": "short-answer",
+    "category": "Historical Approach to Peaceful Unification",
+    "question": "Write the name that goes into the following OOOO, which refers to the principle of promoting peaceful coexistence on the Korean Peninsula of the Lee Jae-myung government described below. As three specific principles of action for realizing peaceful coexistence, the Lee Jae-myung government proclaimed ‘Respect for the North Korean System,’ ‘Non-pursuit of Unification by Absorption,’ and ‘Non-promotion of OOOO.’ This refers to a practical position of preemptively taking measures such as stopping the distribution of leaflets toward North Korea and halting loudspeaker broadcasts to restore collapsed trust between the South and the North and to remove causes of accidental clashes.",
+    "answer": "Hostile acts",
+    "explanation": "The Lee Jae-myung government presented ‘Respect for the North Korean System,’ ‘Non-pursuit of Unification by Absorption,’ and ‘Non-promotion of Hostile Acts’ as the three major principles for promoting peaceful coexistence on the Korean Peninsula. Among these, ‘Non-promotion of Hostile Acts’ is a minimum promise and an essential prerequisite for recovering collapsed trust between the South and the North and resolving hostile relations. According to the government’s position that trust is built through specific practical actions rather than words, it has preemptively taken measures to stop the distribution of leaflets toward North Korea and halt loudspeaker broadcasts, which could heighten military tensions and cause accidental clashes between the South and the North, since immediately after taking office."
+  },
+  {
+    "id": 61,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "A Peace International Film Festival, in which filmmakers from various countries around the world participate, is held in Pyongyang. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The Pyongyang International Film Festival (PIFF) began in 1987 with the purpose of cultural exchange between non-aligned and developing countries. As North Korea’s only international film festival, the ‘Torch Gold Medal’ is awarded to the best work, and it serves as an important cultural channel for introducing overseas films, which are usually difficult to access, to North Korean residents. In 2012, a film co-produced with the West gained great popularity, and it was also held in October 2025, playing a role as a venue for international exchange."
+  },
+  {
+    "id": 62,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "The place name Gangwon-do also exists in North Korea. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Gangwon-do in the North Korean region (also known as North Gangwon-do) is located in the central-eastern part of the Korean Peninsula and is a province divided into North and South with Gangwon State in South Korea. Originally, the seat of the provincial government was Cheorwon-gun, but as major cities became South Korean territory after the division, Wonsan-si, which was incorporated from Hamgyeongnam-do in 1946, became the new center of the province."
+  },
+  {
+    "id": 63,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "In North Korea, bicycles also have license plates. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "To ride a bicycle in North Korea, one must have a bicycle license, and a bicycle license plate must be attached to the bicycle just like a car license plate. The bicycle license system became full-scale in the late 1990s; it was first implemented as a pilot in 1997 centered in Pyongyang and then expanded nationwide in 1999. North Korean bicycle license plates take the form of ‘Region Name 00-000,’ and the car license plate format is similar."
+  },
+  {
+    "id": 64,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "There are subways in North Korea. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "As for the Pyongyang Metro, the Chollima Line, which travels north and south through Pyongyang, opened in 1973; the Hyeoksin Line, which travels east and west, opened in 1978; and the Mangyongdae Line, an extension of the Chollima Line, opened in 1987. Currently, three lines are in operation."
+  },
+  {
+    "id": 65,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "In North Korea, university students also wear school uniforms. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "In North Korea, university students also wear school uniforms. For male students, it is a suit, and for female students, there are two types: a western-style suit and Hanbok. When there are large events, they wear a black skirt and a white Jeogori (jacket). Differences between universities are distinguished by university badges, etc."
+  },
+  {
+    "id": 66,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "The representative institution for gifted education in North Korea, specifically a school that provides intensive education to gifted students in the fields of computer science and art selected from all over the country, is named Kumsong Academy. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Kumsong Academy was launched in September 1990 as ‘Kumsong No. 1 Higher Middle School’ with the purpose of training culture and arts professionals following the establishment of the Mangyongdae Schoolchildren’s Palace in May 1989. After that, in 2002, when all higher middle schools in North Korea were changed to middle schools, it became ‘Kumsong No. 1 Middle School,’ and then changed to ‘Kumsong Academy’ in 2003."
+  },
+  {
+    "id": 67,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "South and North Korea jointly inscribed Ssireum (traditional Korea wrestling) on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity for the first time in history in 2018. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Ssireum is a representative folk game that the Korean people have enjoyed since the era of Goguryeo murals. Initially, the South and North pursued inscription separately, but through the proposal of our government and the mediation of UNESCO, joint inscription was pursued and decided abruptly in November 2018. This was a very symbolic event that informed the world that although the South and the North are divided, they are one nation sharing the same culture."
+  },
+  {
+    "id": 68,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "North Korean youths, like South Korean students, gather with their families on holidays or days off to enjoy folk games such as Yutnori (traditional Korean board game) or Jegichagi (traditional Korean shuttlecock kicking). Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Since South and North Korea are one Korean nation that has shared a long history, holiday cultures and traditional games are very similar. In North Korea, on Seollal (New Year’s Day) or Chuseok (Harvest Festival), which are recognized as public holidays, the whole family sits around to play Yutnori or has a pleasant time in the yard playing Jegichagi and seesawing. This shows that although we are politically divided, the traditional way of life – enjoying life and strengthening family harmony – still continues as one."
+  },
+  {
+    "id": 69,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "There is an ‘electronic commerce’ service in North Korea that uses smartphones to order food or buy goods. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Recently, North Korea has been introducing IT technology into daily life, creating a digital consumption environment such as ordering food from famous restaurants through an app called ‘Okryu’ or purchasing products on the ‘Manmulsang’ site. North Korea’s Okryu is a Pyongyang-centered delivery app and online shopping mall developed in 2015. Operated by the General Bureau of Public Service, it provides food ordering from famous restaurants, hotel reservations, electronic payments, and courier delivery services. Manmulsang is an e-commerce portal site that appeared in 2016 and is called the ‘North Korean version of Amazon.’ It provides information for tens of thousands of products from hundreds of companies and economic information exchange services."
+  },
+  {
+    "id": 70,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "South and North Korea equally respect the historical figure ‘Patriot Ahn Jung-geun’ as a national hero. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Patriotic martyr Ahn Jung-geun is an individual who dedicated himself to the independence of the fatherland and is respected as a great national hero in both South and North Korea. South and North Korea have tried to cooperate, transcending ideology, for the excavation of Patriot Ahn Jung-geun’s remains or the establishment of a memorial hall. The South and the North jointly investigated the cemetery at Lushun Prison in Lushun, China (2006.6. to 2008.5.) for the ‘Project to Excavate and Return the Remains of Patriot Ahn Jung-geun,’ and held joint academic conferences of South and North Korean historians in Kaesong in April and June 2008, and December 2009."
+  },
+  {
+    "id": 71,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "Currently, English is also being taught in primary schools in North Korea. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The time when North Korean students first learn English is the 4th grade of primary school. In the past, official English classes began in the 1st grade of middle school, but recently in North Korea, following the global trend, the time for learning foreign languages has become much earlier, so English is being taught from primary school."
+  },
+  {
+    "id": 72,
+    "type": "ox",
+    "category": "Understanding North Korea",
+    "question": "North Korea’s economic system is a planned economic system in which the state determines the major processes of production and distribution. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "North Korea adopts a centralized planned economy in which the central government directly controls and manages economic activities. The principle is to distribute goods and assign jobs according to the state’s plan. However, since the distribution system failed to operate properly after the severe economic crisis in the 1990s, changes have appeared where residents lead their lives by relying on markets such as Jangmadang."
+  },
+  {
+    "id": 73,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "Which of the following is incorrect regarding school life in North Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Compulsory education begins from the upper class of kindergarten."
+      },
+      {
+        "key": "B",
+        "text": "The homeroom teacher does not change from admission to graduation."
+      },
+      {
+        "key": "C",
+        "text": "University students also wear school uniforms."
+      },
+      {
+        "key": "D",
+        "text": "School uniforms are different for each school."
+      }
+    ],
+    "answer": "D",
+    "explanation": "The start of the 12-year compulsory education system begins from the upper class of kindergarten. Homeroom teachers remain the same from the time of admission until graduation for each stage of school. This is for continuous and close management of students. University students also wear school uniforms to school, and the uniforms for all schools have the same shape. Schools are identified not by the shape of the uniform but by the shape of the badge, etc."
+  },
+  {
+    "id": 74,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "Which province in North Korea, where Mt. Baekdu is located, was named to mean the place where the Amnok River and the Tumen River are?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ryanggang-do"
+      },
+      {
+        "key": "B",
+        "text": "Jagang-do"
+      },
+      {
+        "key": "C",
+        "text": "Hamgyeong-do"
+      },
+      {
+        "key": "D",
+        "text": "Pyeongan-do"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Ryanggang-do, located in northeastern North Korea, is an administrative district that embraces Mt. Baekdu, the sacred mountain of the nation. It was newly established in 1954 by separating part of the Hamgyeong-do region, and its name originated from the meaning that it is located at the head of two rivers (Ryanggang)—the Amnok River and the Tumen River. Located in the center of the Kaema Plateau, it is a mountainous area with a high average altitude and very cold winters, and it is famous as a producer of potatoes, a major crop. Recently, the Mt. Baekdu area was designated as a UNESCO Global Geopark, once again recognizing its geological value. Hyesan-si, the seat of the provincial government, is a major border city facing China across the Amnok River."
+  },
+  {
+    "id": 75,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "Metal types from the Goryeo Dynasty (produced before 1361) are said to have preceded Germany’s metal types by as much as 210 to 270 years. South and North Korea conducted joint excavations at Manwoldae, the site of the Goryeo Dynasty palace, from May 15, 2007, and finally excavated one additional piece of ‘Jeon (嫥),’ the world’s oldest metal type, in 2015. What is this region of North Korea where the Goryeo Dynasty palace site was located?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Pyongyang"
+      },
+      {
+        "key": "B",
+        "text": "Chongjin"
+      },
+      {
+        "key": "C",
+        "text": "Kaesong"
+      },
+      {
+        "key": "D",
+        "text": "Hamhung"
+      }
+    ],
+    "answer": "C",
+    "explanation": "In the 7th joint excavation conducted by the South and the North targeting the Kaesong Manwoldae area, metal types presumed to be from the Goryeo Dynasty were unearthed. The South and North Historians Association announced at the ‘2015 Kaesong Manwoldae Results Briefing’ that “As a result of excavating the western building complex of Kaesong Manwoldae, 19 building sites and over 3,500 artifacts were found.” In total accumulation, approximately 10,000 artifacts were collected."
+  },
+  {
+    "id": 76,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "What is the first foreign language currently taught in North Korean schools?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Russian"
+      },
+      {
+        "key": "B",
+        "text": "Chinese"
+      },
+      {
+        "key": "C",
+        "text": "English"
+      },
+      {
+        "key": "D",
+        "text": "French"
+      }
+    ],
+    "answer": "C",
+    "explanation": "English education in North Korea began in 1964. Since 1964, Russian and English were designated as the first foreign languages for middle schools to be chosen by each school, but as the importance of English increased, it shifted to English-centered education in 1975. Russian classes were abolished from the mid-1980s, and in 1991, English was designated as the first foreign language."
+  },
+  {
+    "id": 77,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "What is the North Korean standard language, which corresponds to the standard language (Pyojun-eo) of South Korea, called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Juche-eo"
+      },
+      {
+        "key": "B",
+        "text": "Baekdu-eo"
+      },
+      {
+        "key": "C",
+        "text": "Munhwa-eo (Culture language)"
+      },
+      {
+        "key": "D",
+        "text": "Munmyeong-eo"
+      }
+    ],
+    "answer": "C",
+    "explanation": "In 1966, North Korea created a standard language system centered regionally on the Pyongyang dialect and socially on the language of the working class, calling it ‘Munhwa-eo.’"
+  },
+  {
+    "id": 78,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "What is North Korea’s National Treasure Site No. 1?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Manwoldae"
+      },
+      {
+        "key": "B",
+        "text": "Pyongyang Fortress"
+      },
+      {
+        "key": "C",
+        "text": "Tomb of King Dongmyeong"
+      },
+      {
+        "key": "D",
+        "text": "Tomb of Dangun"
+      }
+    ],
+    "answer": "B",
+    "explanation": "In North Korea, cultural properties are managed by being divided into National Treasure-level artifacts, Quasi-National Treasure artifacts, National Treasure sites, and Quasi-National Treasure (preservation level) sites according to the degree of value. National Treasure Site No. 1 is Pyongyang Fortress."
+  },
+  {
+    "id": 79,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "The following is an explanation of the leisure activities of North Korean residents. Which of the following is NOT correct?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Leisure activities that North Korean residents perform relatively frequently include watching movies, watching performances, and watching TV."
+      },
+      {
+        "key": "B",
+        "text": "Watching movies and performances are leisure activities that North Korean residents have traditionally enjoyed, and group viewing is mainly done by workplace units such as factories, enterprises, and cooperative farms."
+      },
+      {
+        "key": "C",
+        "text": "Along with official channel broadcasts, external movies or dramas introduced through the market are also being watched."
+      },
+      {
+        "key": "D",
+        "text": "Because the electricity situation is poor, they hardly watch TV at all."
+      }
+    ],
+    "answer": "D",
+    "explanation": "Leisure activities that North Korean residents perform relatively frequently include watching movies, watching performances, and watching TV. Watching movies and performances are leisure activities that North Korean residents have traditionally enjoyed, and group viewing is mainly done by workplace units such as factories, enterprises, and cooperative farms. As the electricity situation is poor, TV viewing through solar panels, storage batteries, etc., has increased recently. Through TV, official channel broadcasts as well as external movies or dramas introduced through the market are being viewed."
+  },
+  {
+    "id": 80,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "Which of the following is NOT appropriate as an explanation for ‘Collectivism,’ one of the characteristics of social life in North Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It emphasizes the slogan ‘One for all, all for one.’"
+      },
+      {
+        "key": "B",
+        "text": "It aims to guarantee individual creativity and autonomy to the maximum."
+      },
+      {
+        "key": "C",
+        "text": "It prioritizes the goals of the group or organization over individual goals."
+      },
+      {
+        "key": "D",
+        "text": "Residents must obligatorily join organizations and lead an organized life for a lifetime."
+      }
+    ],
+    "answer": "B",
+    "explanation": "Because North Korean collectivism prioritizes the interests of the group over the individual, it emphasizes following the discipline of the organization and the instructions of the state rather than individual free choice or creativity. Therefore, the explanation that it guarantees individual autonomy does not fit the original meaning of collectivism or the reality of North Korea."
+  },
+  {
+    "id": 81,
+    "type": "multiple-choice",
+    "category": "Understanding North Korea",
+    "question": "Which place was the first to be inscribed as a UNESCO World Mixed Cultural Heritage on the Korean Peninsula?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Mt. Baekdu"
+      },
+      {
+        "key": "B",
+        "text": "Mt. Halla"
+      },
+      {
+        "key": "C",
+        "text": "Mt. Kumgang"
+      },
+      {
+        "key": "D",
+        "text": "Mt. Jiri"
+      }
+    ],
+    "answer": "C",
+    "explanation": "In July 2025, Mt. Kumgang in North Korea was officially inscribed as the first World Mixed Cultural Heritage on the Korean Peninsula and the 41st in the world. Mixed heritage is a combination of natural heritage, such as unique terrain and beautiful natural scenery, and cultural heritage, such as historic and artistically valuable cultural sites. Globally, the harmony between the strange rock formations of Mt. Kumgang and Buddhist relics has been recognized. As of July 2025, a total of 1,248 cases (972 cultural heritages, 235 natural heritages, and 41 mixed heritages) from 170 countries are registered on the UNESCO World Heritage List. And as of July 2025, South Korea possesses 17 UNESCO World Heritages including Jongmyo and Changdeokgung, and North Korea possesses 3 cases including the Complex of Goguryeo Tombs."
+  },
+  {
+    "id": 82,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "What is the name of the traditional folk song of the Korean Peninsula known worldwide, which both the South and the North have respectively inscribed as UNESCO Intangible Cultural Heritage of Humanity?",
+    "answer": "Arirang",
+    "explanation": "The South and the North inscribed Arirang separately as a UNESCO Intangible Cultural Heritage of Humanity. South Korea’s Arirang was inscribed in 2012 under the name ‘Arirang, lyrical folk song in the Republic of Korea,’ and North Korea’s Arirang was inscribed in 2014 under the name ‘Arirang folk song in the Democratic People’s Republic of Korea.’ South Korea explains Arirang as ‘a representative folk song of Korea and the Korean nation and a song with the power to bind and communicate the Korean nation as one,’ while North Korea explains it as ‘a song that preserved national identity during the Korean nation’s period of ordeal and reflected the pain of division and the aspiration for unification.’"
+  },
+  {
+    "id": 83,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "Mt. Kumgang in North Korea is also called by different names according to the four seasons of spring, summer, autumn, and winter. Write the other name for Mt. Kumgang used in summer.",
+    "answer": "Bongraesan",
+    "explanation": "The scenery of Mt. Kumgang changes distinctly with the four seasons, so it has four different names by season. In spring, when all things revive and shine like jewels, it is called Kumgangsan; in summer, when the greenery is thick and it seems like a place where immortals live, it is called Bongraesan; in autumn, when the leaves turn red, it is called Pungaksan; and in winter, when the leaves fall and only the skeleton of the rocky mountain is revealed, it is called Gaegolsan. These are names given by our ancestors praising the beauty of the mountain that changes according to the cycle of nature, symbolically showing the diverse charms of Mt. Kumgang."
+  },
+  {
+    "id": 84,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "As the economic difficulties in North Korea intensified and the distribution system collapsed in the 1990s, the ‘night market’ in the form of a black market and another form of illegal but permanent market became active. Food items such as rice and corn, which were illegal transaction goods, and manufactured goods were traded as major products, and later, together with large-scale wholesale markets, these markets developed into specialized markets. Write the collective term for the North Korean markets that brought about this marketization phenomenon in North Korea.",
+    "answer": "Jangmadang",
+    "explanation": "As the 1990s approached, the North Korean planned economy system itself was shaken, and as the distribution system generally collapsed, Jangmadang for trading food centered on the northern regions became permanent. Initially, farmers’ markets expanded for the purpose of obtaining food for survival, but as the class maintaining livelihoods through business activities grew into a new wealthy class, so-called ‘Donju,’ it developed into a large-scale distribution market."
+  },
+  {
+    "id": 85,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "In North Korea, there is a university established jointly through South-North private cooperation. Write the name of this university.",
+    "answer": "Pyongyang University of Science and Technology",
+    "explanation": "Pyongyang University of Science and Technology is a special university and graduate school in North Korea located in Sungri-dong, Nakrang-guyok, Pyongyang. It was jointly established by North Korea’s educational authorities and the Northeast Asia Education and Culture Cooperation Foundation of South Korea through the efforts of South Korean Christian circles, overseas compatriots, and Yanbian University of Science and Technology. The project began in 2001, but the opening was delayed several times, and it began accepting freshmen from the fall of 2010. Undergraduate and graduate departments include the Department of Information and Communication Engineering, the Department of International Finance and Management, the Department of Agriculture and Life Sciences, the Department of Medicine, and the Graduate School of Dentistry."
+  },
+  {
+    "id": 86,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "Okryu-gwan, located on the banks of the Taedong River in Pyongyang, North Korea, is a famous North Korean restaurant to the extent that it has branches not only in Pyongyang but also overseas. Write the name of the representative food of Pyongyang, where buckwheat noodles and radish water kimchi broth harmonize, which is the representative menu of the Pyongyang Okryu-gwan restaurant.",
+    "answer": "Pyongyang Naengmyeon (Cold noodles)",
+    "explanation": "Okryu-gwan, located on the banks of the Taedong River in Pyongyang, is a representative public restaurant and state banquet hall in North Korea that opened in 1960. It is characterized by its traditional-style blue tiled roof, and is famous for its Pyongyang Naengmyeon, as well as meat tray noodles (Gogi-jaengban-guksu) and sturgeon dishes. It is also well-known as a symbolic place for South-North reconciliation, as major foreign guests visited at the time of the inter-Korean summits. Recently, it has been leading the dining-out culture of Pyongyang citizens by introducing modern equipment and strengthening delivery services."
+  },
+  {
+    "id": 87,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "As a railway connecting Seoul and Sinuiju, the northernmost station of the current South Korean section is Dorasan Station. In 2007, freight trains operated regularly between Dorasan Station in the South and Bongdong Station in the North. What is the name of this railway line?",
+    "answer": "Gyeongui Line",
+    "explanation": "The Gyeongui Line is a major longitudinal railway of the Korean Peninsula connecting Seoul and Sinuiju. Restoration projects were pursued according to the agreement of the 2000 Inter-Korean Summit; in the South, operations to Dorasan Station began in 2002, and in 2007, freight trains operated regularly for about 11 months in the section between Dorasan Station in the South and Bongdong Station in the North. Currently, the South Korean section is only operating to Dorasan Station within the Civilian Control Zone (CCZ), and this place has become a place symbolizing the aspiration for overcoming the division of the Korean Peninsula and unification under the slogan “Not the last station from the South, but the first station toward the North.” The Gyeongui Line is expected to become a core axis of the peaceful economy of the Korean Peninsula by connecting with the Trans-Chinese Railway (TCR), etc., in the future."
+  },
+  {
+    "id": 88,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "Write the word for donut in North Korea.",
+    "answer": "Garakji-ppang",
+    "explanation": "North Korea replaces loanwords with Korean words through a language purification policy. Donuts are called ‘Garakji-ppang’ after their shape (ring-shaped bread), and ramen is called ‘Kkoburang-guksu’ (curly noodles) after its curly noodles. Cup noodles are called ‘Jeukseok-guksu’ (instant noodles) in the sense that they can be cooked and eaten instantly."
+  },
+  {
+    "id": 89,
+    "type": "short-answer",
+    "category": "Understanding North Korea",
+    "question": "Write the name of the representative newspaper of North Korea that represents North Korea’s position on major domestic and foreign current issues or events as the organ of the Workers’ Party of Korea.",
+    "answer": "Rodong Sinmun",
+    "explanation": "Rodong Sinmun is the organ of the Central Committee of the Workers’ Party of Korea and is the most authoritative daily newspaper in North Korea. It was founded in 1945 under the name ‘Jeongro’ and is used as a core medium to convey the party’s line and policies to the people and to educate them in ideology. Recently, in line with the digitalization trend, it has been delivering news abroad through its website. It serves as an important scale for gauging domestic and foreign policy directions."
+  },
+  {
+    "id": 90,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "Write the railway corresponding to ( A ). If the Gyeongui Line and Donghae Line are restored and a railway track starting from the Korean Peninsula and leading to Europe via China, Russia, Mongolia, etc., is connected, logistics costs can be reduced, and as the railroad is connected, tourists can freely come and go. This refers to the ( A ), a railway connecting the South and the North, being linked with the Trans-Siberian Railway (TSR) and the Trans-Chinese Railway (TCR). To achieve this, exchange and cooperation between the South and the North are more important than anything else.",
+    "answer": "Trans-Korean Railway (TKR)",
+    "explanation": "If the Trans-Korean Railway (TKR) is connected by restoring the Gyeongui and Donghae Lines, it can be linked with the Trans-Siberian Railway (TSR) and the Trans-Chinese Railway (TCR), allowing logistics and tourists to move freely by train. Additionally, in the case of maritime transport, it takes about 30–40 days to reach Europe, and if one has to go around the Cape of Good Hope at the southern tip of Africa due to being unable to pass through the Suez Canal, it can take more than 60 days. On the other hand, using the railway allows for transport within approximately 10–15 days, significantly shortening the transport period."
+  },
+  {
+    "id": 91,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "It is said that if the Korean Peninsula railway is connected, this city can grow into the largest logistics base connecting the Eurasian continent and the Pacific Ocean over 55 million square kilometers. As a port city located at the southeastern tip of the Korean Peninsula and currently the world’s 5th largest trade port based on container cargo volume in 2017, where is this city?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Busan"
+      },
+      {
+        "key": "B",
+        "text": "Changwon"
+      },
+      {
+        "key": "C",
+        "text": "Pohang"
+      },
+      {
+        "key": "D",
+        "text": "Yeosu"
+      }
+    ],
+    "answer": "A",
+    "explanation": "If the Korean Peninsula railway is connected in the future, Busan will play the role of the largest logistics base connecting the Eurasian continent and the Pacific Ocean."
+  },
+  {
+    "id": 92,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "It is said that mineral resources are buried in 80% of North Korea’s land, and this place, the largest open-pit mine in Asia, is also said to have more than 2 to 3 billion tons of iron buried. Write the name of this place, where POSCO of South Korea tried to promote joint development between the South and the North immediately after the October 4, 2007 Inter-Korean Summit.",
+    "answer": "Musan Iron Min",
+    "explanation": "The Musan Iron Mine is North Korea’s largest iron mine, located in Musan County, North Hamgyong Province. It is known as one of the largest open-pit (露天) iron mines in Asia and is evaluated to have iron ore deposits of more than 2 to 3 billion tons. In the atmosphere of expanding inter-Korean economic cooperation after the 2007 October 4 Inter-Korean Summit, POSCO, a South Korean steel company, reviewed cooperation plans utilizing North Korea’s iron ore resources. POSCO discussed plans with the North to import iron ore from the Musan Iron Mine or participate in mine development and even envisioned an industrial cooperation model linking iron ore mining and steelmaking by constructing a steel mill in the Musan area in the long term."
+  },
+  {
+    "id": 93,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "The entire area of the Demilitarized Zone (DMZ) has been designated as a UNESCO Biosphere Reserve. Write O if correct, and X if incorrect.",
+    "answer": "X",
+    "explanation": "In June 2019, the border areas of Gangwon Province (Cheorwon-gun, Hwacheon-gun, Yanggu-gun, Inje-gun, Goseong-gun) excluding Paju in Gyeonggi-do, and the area around the Demilitarized Zone (DMZ) such as Yeoncheon-gun in Gyeonggi-do, were designated as UNESCO Biosphere Reserves. Paju City also pushed for an application for UNESCO Biosphere Reserve designation in 2011, but in 2018, it did not apply due to economic development such as the creation of an industrial complex and was excluded, so it proceeded only with Yeoncheon and Gangwon Province. It was reserved during the deliberation process of the UNESCO International Coordinating Council of the Man and the Biosphere (MAB) Program in 2012 but was designated in 2019. UNESCO’s major designation systems include World Heritage which protects cultural and natural heritage, Biosphere Reserves which aim for ecosystem conservation and sustainable use, Global Geoparks which protect areas with outstanding geological value, Memory of the World which targets records and documents to be preserved by humanity, and Intangible Cultural Heritage which protects living cultures such as traditions, customs, and arts."
+  },
+  {
+    "id": 94,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "What is the concept corresponding to the following description? This is a special zone for promoting industrial and tourism-type development projects to realize a South-North economic community within the border region. Based on a basic plan established by the Ministry of Unification in December 2025, it is scheduled to be promoted step-by-step from 2026 to 2027 by selecting among 17 city and county border regions including Incheon (Ganghwa, Ongjin), Gyeonggi (Gimpo, Paju, Yeoncheon, Goyang, Dongducheon, Yangju, Pocheon, Gapyeong), and Gangwon (Goseong, Yanggu, Inje, Hwacheon, Cheorwon, Chuncheon, Sokcho). It aims to achieve balanced development of the land by developing border regions that have been excluded from development due to division, and in the medium to long term, to contribute to creating a South-North economic community by inducing domestic industrial production and forming a virtuous cycle mechanism for South-North economic growth.",
+    "answer": "Peace Economic Special Zone",
+    "explanation": "The Peace Economic Special Zone aims to contribute to the formation of a South-North economic community and is scheduled to be promoted by selecting and designating among 17 border cities and counties. The Peace Economic Special Zone is a project providing tax and levy reductions, regulatory exceptions, and infrastructure support for the development of border regions and the activation of inter-Korean exchange and cooperation industries. In December 2025, the Ministry of Unification established the 1st Basic Plan for Peace Economic Special Zones through ▷listening to opinions of local governments, ▷consultation with relevant ministries, and ▷research commissions. Accordingly, the Ministry of Unification and the Ministry of Land, Infrastructure and Transport plan to receive development plans from local governments for the designation of Peace Economic Special Zones twice in 2026 and 2027."
+  },
+  {
+    "id": 95,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "Which of the following is NOT an event for which the South and the North formed a single team in an international sports competition?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Table tennis"
+      },
+      {
+        "key": "B",
+        "text": "Basketball"
+      },
+      {
+        "key": "C",
+        "text": "Baseball"
+      },
+      {
+        "key": "D",
+        "text": "Soccer"
+      }
+    ],
+    "answer": "C",
+    "explanation": "In table tennis, a single team was first formed at the 1991 World Table Tennis Championships and won a gold medal, and in basketball, a single team was first formed at the 2018 Jakarta-Palembang Asian Games and won a silver medal. In soccer, a single team was formed at the 1991 FIFA World Youth Championship and advanced to the quarterfinals."
+  },
+  {
+    "id": 96,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "Dorasan Station is the northernmost station on the Gyeongui Line located within the Civilian Control Zone in Paju, Gyeonggi-do. It is famous for the slogan “Not the last station from the South, but the first station toward the North,” and is a place symbolizing the division of the Korean Peninsula and the aspiration for unification. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Dorasan Station, built on April 11, 2002, is the northernmost station on the Gyeongui Line located in the Civilian Control Zone in Paju, Gyeonggi-do. In fact, it is a symbolic station built with inter-Korean connection in mind rather than being the final stop of general railway operations. This station emphasizes the meaning that it is the starting point of unification and connection rather than the end of division through the slogan “Not the last station from the South, but the first station toward the North.” In fact, if inter-Korean railway connection is achieved in the future, Dorasan Station will play the role of a gateway leading to the continent via North Korea."
+  },
+  {
+    "id": 97,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "When going on a Mt. Kumgang tour from South Korea, one could also travel by private car. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "Mt. Kumgang tourism began operations in November 1998 in the form of maritime tourism using cruise ships. Later, as the road connecting the South and the North was opened in 2003, overland tourism via tour buses, etc., was carried out. Starting from March 2008, it developed into Mt. Kumgang tourism via private cars. However, Mt. Kumgang tourism was suspended after a tourist was shot and killed by a North Korean soldier in the early morning of July 11, 2008, within the North Korean zone of Jangjeon Port."
+  },
+  {
+    "id": 98,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "The Mt. Kumgang tourism project was carried out for about 10 years from its start in 1998 until its suspension in 2008, and about 1.95 million South Korean tourists visited. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "According to Hyundai Asan’s estimate, the number of South Korean tourists who visited Mt. Kumgang from the start of the Mt. Kumgang tourism project in 1998 until its suspension in 2008 is approximately 1,956,000. Mt. Kumgang tourism brought direct effects such as national economic effects through increased tourists and sales, the effect of activating Gangwon Province’s regional economy during the Mt. Kumgang visit process, and the effect of improving the tourism balance, as well as indirect effects such as reducing the burden of foreign debt repayment through enhanced national credit, expanding foreign investment attraction, and inducing employment."
+  },
+  {
+    "id": 99,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "Which of the following is NOT correct regarding the Masikryong Ski Resort in Gangwon Province, North Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It was used as a joint training site for winter sports athletes of inter-Korean single teams."
+      },
+      {
+        "key": "B",
+        "text": "It is a representative winter tourist destination developed to attract international ski competitions and tourists."
+      },
+      {
+        "key": "C",
+        "text": "The South and the North also conducted joint training for military purposes."
+      },
+      {
+        "key": "D",
+        "text": "It is evaluated as a symbolic area for inter-Korean sports exchange and peace cooperation."
+      }
+    ],
+    "answer": "C",
+    "explanation": "The Masikryong Ski Resort, which opened in December 2013, is a representative winter tourist destination in Gangwon Province, North Korea, and a place for inter-Korean sports exchange. Joint training for inter-Korean ski athletes was conducted to prepare for the single team at the 2018 Pyeongchang Olympics, and it is evaluated as a symbolic place for peace cooperation through tourism and sports exchange. However, the South and the North have never conducted joint training for military purposes."
+  },
+  {
+    "id": 100,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "Which of the following is NOT a project conducted jointly by historians from the South and the North?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Dangun Tomb excavation and restoration project in Pyongyang"
+      },
+      {
+        "key": "B",
+        "text": "Manwoldae joint excavation project in Kaesong"
+      },
+      {
+        "key": "C",
+        "text": "Investigation project for the excavation and repatriation of the remains of Patriot Ahn Jung-geun in Lushun"
+      },
+      {
+        "key": "D",
+        "text": "Joint status survey on Goguryeo tombs in the Pyongyang area"
+      }
+    ],
+    "answer": "A",
+    "explanation": "The Dangun Tomb excavation and restoration project in Pyongyang was pushed independently by North Korea in 1994."
+  },
+  {
+    "id": 101,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "After the 2018 Inter-Korean Summit, our government sent 200 tons of Jeju tangerines to North Korea as a gift. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "During the period when inter-Korean relations were improving in 2018, our government sent 200 tons of Jeju tangerines to the North Korean government in return for its gift of 2 tons of wild pine mushrooms. This is an example achieved as part of symbolic inter-Korean exchange. Meanwhile, even before 2018, activities of sending tangerines to North Korea had continued at the private and public levels. Since 1998, Jeju Island and Jeju regional organizations had conducted continuous private exchange by supporting North Korea with tens to hundreds of tons of tangerines annually for humanitarian and exchange purposes, but this is currently suspended."
+  },
+  {
+    "id": 102,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "Which of the following is NOT correct regarding efforts for peace settlement through sociocultural exchange between South and North Korea?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "South-North sociocultural exchange began from the home-visiting of separated families in 1985."
+      },
+      {
+        "key": "B",
+        "text": "During the home-visiting of separated families in 1985, mutual accompanying visit performances by South and North art troupes were carried out."
+      },
+      {
+        "key": "C",
+        "text": "So far, reunions of separated families between South and North Korea have been conducted only in a face-to-face format."
+      },
+      {
+        "key": "D",
+        "text": "Video reunions were introduced starting in 2005 due to the aging of separated families."
+      }
+    ],
+    "answer": "C",
+    "explanation": "Sociocultural exchange between South and North Korea is also an important part of efforts to settle peace on the Korean Peninsula. South-North sociocultural exchange began with the home-visiting of separated families in 1985, and art troupes from the South and the North also accompanied each other for visiting performances, becoming the starting point of sociocultural exchange. On the Korean Peninsula, the issue of separated families is a humanitarian issue that transcends the political ideologies and systems of the South and the North, and is an important link in inter-Korean exchange and cooperation that fundamentally raises the necessity of peace on the Korean Peninsula. Between South and North Korea, from 1985 to 2018, a total of 21 face-to-face reunions and 7 video reunions were held, and there are cases conducted through mail. They were mainly conducted at the Mt. Kumgang Reunion Center for Separated Families and the Gaegumgang Hotel located in the Mt. Kumgang area. Video reunions were introduced starting from 2005 due to the aging of separated families, but face-to-face reunions have not been conducted since the last one in 2018."
+  },
+  {
+    "id": 103,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "Write the words to go into ( A ) and ( B ), respectively. • “If we transform the cost of division caused by hostility into a growth engine based on peace, we can convert the ‘Korea ( A )’ into ‘Korea ( B ).’” (Speech by President Lee Jae-myung, Chairperson, at the Inaugural Meeting of the 22nd National Unification Advisory Council) • Korea ( A ) refers to a phenomenon where investors perceive geopolitical risks such as the possibility of war due to division and political and security instability, along with institutional factors such as backward corporate governance, as risk factors and thus undervalue the assets of South Korea in advance. • Korea ( B ) refers to a situation where economic value is highly evaluated as peace and stability are settled on the Korean Peninsula or the investment environment is improved through manufacturing innovation, etc.",
+    "answer": "Risk / Premium",
+    "explanation": "The phenomenon where South Korean companies and the South Korean stock market are evaluated low compared to their actual economic power or corporate performance is called ‘Korean Peninsula Risk’ or ‘Korea Risk.’ This is because concerns about geopolitical risks such as the possibility of war due to division or political and security instability, and the institutional environment such as backward corporate governance, are judged as risk factors by investors, leading them to undervalue South Korean assets in advance. Conversely, ‘Korea Premium’ refers to a situation where peace and stability are settled on the Korean Peninsula or the investment environment such as corporate operation and manufacturing innovation is improved, and economic value is highly evaluated."
+  },
+  {
+    "id": 104,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "Which region is the representative inter-Korean economic cooperation project where the following took place? • It is a North Korean economic special zone jointly established by the South and the North. • It was promoted based on the agreement between Hyundai Asan and North Korea in August 2000, began full operation in 2004, and was completely suspended in 2016.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Haeju"
+      },
+      {
+        "key": "B",
+        "text": "Kaesong"
+      },
+      {
+        "key": "C",
+        "text": "Rajin"
+      },
+      {
+        "key": "D",
+        "text": "Sinuiju"
+      }
+    ],
+    "answer": "B",
+    "explanation": "The Kaesong Industrial Complex is an economic special zone in North Korea created through a joint venture between the South and the North. It was promoted following the agreement between Hyundai Asan and North Korea in August 2000, operated in 2004, and was completely suspended in 2016. During its operation, about 125 South Korean companies moved into the complex to produce products, and it is evaluated that more than about 55,000 North Korean workers were employed. According to the announcement by the Ministry of Unification, the total cumulative production value reached approximately 3.2 billion USD (about 3.5 trillion KRW). As such, the Kaesong Industrial Complex is significant in that it created jobs directly and indirectly through the employment of South and North Korean workers, sought to reduce production costs for South Korean companies by utilizing North Korean human resources, and served as a symbol of inter-Korean economic cooperation."
+  },
+  {
+    "id": 105,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "The Kaesong Industrial Complex project is an inter-Korean economic cooperation project promoted by combining our capital and technology with North Korea’s land and manpower. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "The Kaesong Industrial Complex project, which symbolizes inter-Korean cooperation, began with the signing of an agreement between Hyundai Asan and North Korea in August 2000. After holding a groundbreaking ceremony on June 30, 2003, factories began operating and producing products on December 15, 2004. At that time, there were about 50,000 North Korean workers, and the number of South Korean company employees was at the level of 1,000. It has been in a state of complete suspension since February 2016 after repeated suspensions and resumptions depending on the political situation."
+  },
+  {
+    "id": 106,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "Write the name of this economic special zone located in the area of Rajin City and Sonbong County in North Hamgyong Province, North Korea, which is a strategic economic zone equipped with logistics infrastructure such as ports and railways. It was designated by the North Korean government to attract foreign investment.",
+    "answer": "Rajin-Sonbong Free Trade Zone",
+    "explanation": "The Rajin-Sonbong Free Trade Zone was designated as North Korea’s first free economic and trade zone in December 1991 and is an economic special zone located in the area of Rajin City and Sonbong County in North Hamgyong Province, North Korea, which is a strategic economic zone equipped with logistics infrastructure such as ports and railways. It was designated by the North Korean government for the purpose of attracting foreign investment and promoting exports and imports, and is evaluated as a potential base for inter-Korean economic cooperation and northern economic linkage. Its main purpose is to promote economic activation by attracting foreign investment and to build an industrial complex development and logistics-centered economic structure centered on ports and railways. Furthermore, it also has the strategic meaning of activating the linked economy of the South, the North, and the North through the linkage of trade and logistics networks with northern countries such as Russia and China. However, large-scale investment and industrial complex development were limited due to North Korea’s nuclear issue and international sanctions, and there is a limitation in that the participation of South and North Korean companies was also realistically limited."
+  },
+  {
+    "id": 107,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "Write the term referring to the costs we must bear due to problems caused by division like the following. • Humanitarian issues such as confirmation of life/death, reunion, and reintegration of separated families • Excessive national defense expenditure issues due to the military confrontation between South and North Korea • Geopolitical issues of being part of the continent but unable to advance into the continent by land • Diplomatic issues of having to compete wastefully in the international community",
+    "answer": "Division costs",
+    "explanation": "Division costs is a collective term referring to the burdens we must bear as long as the South-North division continues. Division costs include visible tangible costs and intangible costs that are difficult to confirm directly by eye. Tangible costs include security costs required for national defense, diplomatic costs, and system maintenance costs, while intangible costs refer to costs associated with social problems such as fear of war, the suffering of separated families, ideological conflict, and restrictions on land use and unbalanced development; these are also called social costs."
+  },
+  {
+    "id": 108,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "Which of the following is NOT a unification cost?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Improvement costs for roads, railways, and waterways on the Korean Peninsula"
+      },
+      {
+        "key": "B",
+        "text": "Economic (corporate) activation support costs"
+      },
+      {
+        "key": "C",
+        "text": "Social confusion costs"
+      },
+      {
+        "key": "D",
+        "text": "Military costs"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Unification costs refer to the economic and non-economic costs that must be spent after unification to form a single system for the South and the North. They include improvement costs for roads, railways, and waterways on the Korean Peninsula, economic (corporate) activation support costs (regional economic activation, support for short-distance transport such as subways), social security costs (pension, childcare, labor market subsidies), congestion costs in housing, transport, and education due to population movement, and social confusion costs. However, military costs are generally costs used to maintain national security and military power, and are not included in the category of unification costs occurring during the social and economic integration process after unification. Rather, military costs are included in the division costs that occur when maintaining division."
+  },
+  {
+    "id": 109,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "Write the term meaning the totality of economic and non-economic rewards and benefits that unification will bring.",
+    "answer": "Unification benefits",
+    "explanation": "Tangible benefits of unification benefits include the reduction of national defense expenditure, resolution of diplomatic competition costs, expansion of economic scale, and increased complementarity of South and North economies, while intangible benefits include the resolution of the separated families issue, disappearance of the possibility of war, improvement of international status, growth of autonomy, expansion of living radius, and expansion of diversified culture."
+  },
+  {
+    "id": 110,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "The name of the division line currently dividing the South and the North is called the ‘38th Parallel.’ Write O if correct, and X if incorrect.",
+    "answer": "X",
+    "explanation": "According to the Armistice Agreement on July 27, 1953, the name of the division line dividing the South and the North was designated as the ‘Military Demarcation Line (MDL)’ or ‘Truce Line.’"
+  },
+  {
+    "id": 111,
+    "type": "ox",
+    "category": "Future of Peaceful Unification",
+    "question": "The girl group Red Velvet has performed in the North as a South Korean art troupe. Write O if correct, and X if incorrect.",
+    "answer": "O",
+    "explanation": "On April 1, 2018, at the East Pyongyang Grand Theatre and on April 3 at the Ryugyong Chung Ju-yung Gymnasium, performances in Pyongyang by the South Korean art troupe praying for South-North peace and cooperation were held. In the performances held under the subtitle “Spring is Coming,” major South Korean singers and idol groups such as Red Velvet, Cho Yong-pil, Lee Sun-hee, Yoon Do-hyun (YB), Baek Ji-young, and Seohyun (Girls’ Generation) participated. The performances were conducted in front of a North Korean audience and Chairman of the State Affairs Commission Kim Jong-un, contributing to sociocultural exchange and the creation of a peace atmosphere between the South and the North."
+  },
+  {
+    "id": 112,
+    "type": "short-answer",
+    "category": "Future of Peaceful Unification",
+    "question": "They are essential for high-tech industries such as smartphones, electric vehicle batteries, semiconductors, and wind turbines, and are called ‘vitamins of the future industry.’ Write the name of the strategic mineral resources that are known to have large deposits in the North Korean region and can increase South Korea’s future industrial competitiveness after the improvement of inter-Korean relations.",
+    "answer": "Rare earth elements",
+    "explanation": "Rare earth elements are 17 rare metal elements essential for high-tech industries, and because their supply is concentrated in specific countries, they are classified as strategic resources. North Korea is known to have abundant rare earth deposits, centered around the North Hamgyong and Ryanggang Provinces, and according to some studies, potential deposits are estimated at about 20 million to over 200 million tons. North Korea’s rare earth elements are evaluated as potential core mineral resources that can contribute to the diversification of supply chains and the enhancement of high-tech industrial competitiveness in terms of expanding inter-Korean economic cooperation in the future and strengthening the industrial base after unification."
+  },
+  {
+    "id": 113,
+    "type": "multiple-choice",
+    "category": "Future of Peaceful Unification",
+    "question": "The Korean Peninsula is a peninsular country surrounded by the sea on three sides. However, due to South-North division, it is unable to utilize its geographical advantages as a peninsular country. Which of the following is NOT an advantage of being a peninsular country if the South and the North are unified?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Creating economic and cultural synergies through the expansion of exchange with neighboring countries"
+      },
+      {
+        "key": "B",
+        "text": "Being able to travel to Europe by train"
+      },
+      {
+        "key": "C",
+        "text": "Maritime trade becomes more developed due to the severance of land routes"
+      },
+      {
+        "key": "D",
+        "text": "Being able to become a hub for international logistics"
+      }
+    ],
+    "answer": "C",
+    "explanation": "The Korean Peninsula is a peninsular country surrounded by the sea on three sides, having the geographical advantage of being able to connect the ocean and the continent simultaneously. However, currently, the land route directly connecting to the continent is blocked due to South-North division, preventing the full utilization of this advantage. If inter-Korean relations improve in the future, land transport networks with continental countries such as China and Russia will be connected, leading to more active economic and cultural exchange, and direct movement to the Eurasian continent via the Trans-Siberian Railway will become possible through connection with continental railway networks. Additionally, if a complex logistics system utilizing both sea and land simultaneously is established, it can grow into a logistics hub of Northeast Asia."
+  }
+]
