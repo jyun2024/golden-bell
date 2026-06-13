@@ -9,7 +9,8 @@ const settingsModal = document.getElementById('settingsModal');
 const STORAGE = {
   score: 'ugb_score_v1',
   wrong: 'ugb_wrong_v1',
-  apiKey: 'ugb_openai_key_v1'
+  apiKey: 'ugb_openai_key_v1',
+  todayIndex: 'ugb_today_index_v1'
 };
 
 let questions = [];
@@ -123,7 +124,7 @@ function renderHome() {
   const wrongCount = getWrongNotes().length;
   app.innerHTML = `
     <section class="home-grid">
-      <article class="card home-card" data-action="today"><div><div class="big-icon">📘</div><h2>Today’s Question</h2><p>One deterministic daily question based on today’s date.</p></div></article>
+      <article class="card home-card" data-action="today"><div><div class="big-icon">📘</div><h2>Today’s Question</h2><p>Continue studying questions 1 → 113 in order.</p></div></article>
       <article class="card home-card" data-action="random"><div><div class="big-icon">🎲</div><h2>Random Quiz</h2><p>Practice any question from the full local database.</p></div></article>
       <article class="card home-card" data-action="wrong"><div><div class="big-icon">📝</div><h2>Wrong Answer Note</h2><p>${wrongCount} question${wrongCount === 1 ? '' : 's'} saved for review.</p></div></article>
       <article class="card home-card" data-action="score"><div><div class="big-icon">🏆</div><h2>My Score</h2><p>Total Score: <strong>${state.totalScore}</strong></p></div></article>
@@ -146,11 +147,42 @@ function renderHome() {
   }));
 }
 
+function getTodayQuizIndex() {
+  const saved = Number(localStorage.getItem(STORAGE.todayIndex));
+
+  if (
+    !Number.isInteger(saved) ||
+    saved < 0 ||
+    saved >= questions.length
+  ) {
+    return 0;
+  }
+
+  return saved;
+}
+
+function saveTodayQuizIndex(index) {
+  const normalized =
+    ((index % questions.length) + questions.length) %
+    questions.length;
+
+  localStorage.setItem(
+    STORAGE.todayIndex,
+    String(normalized)
+  );
+}
+
 function getTodaysQuestion() {
-  const start = new Date(new Date().getFullYear(), 0, 0);
-  const diff = new Date() - start;
-  const day = Math.floor(diff / 86400000);
-  return questions[day % questions.length];
+  return questions[getTodayQuizIndex()];
+}
+
+function getNextTodayQuestion() {
+  const nextIndex =
+    getTodayQuizIndex() + 1;
+
+  saveTodayQuizIndex(nextIndex);
+
+  return getTodaysQuestion();
 }
 
 function getRandomQuestion() {
@@ -192,7 +224,25 @@ function renderQuiz() {
   document.getElementById('submitBtn').addEventListener('click', submitAnswer);
   document.getElementById('explainBtn').addEventListener('click', showExplanation);
   document.getElementById('aiBtn').addEventListener('click', askAI);
-  document.getElementById('nextBtn').addEventListener('click', () => startQuiz(getRandomQuestion(), 'random'));
+  document.getElementById('nextBtn')
+  .addEventListener('click', () => {
+
+    if (currentMode === 'today') {
+
+      startQuiz(
+        getNextTodayQuestion(),
+        'today'
+      );
+
+    } else {
+
+      startQuiz(
+        getRandomQuestion(),
+        'random'
+      );
+
+    }
+  });
   document.getElementById('homeBtn').addEventListener('click', renderHome);
   if (q.type === 'short-answer') document.getElementById('submitBtn').disabled = true;
 }
